@@ -1,0 +1,168 @@
+{
+  "language": "Indonesian",
+  "candidates": [
+    "sama_sekali"
+  ],
+  "pairs": [
+    {
+      "original": "Suratnya sama sekali tidak dibacakan dalam konsili dan para utusan paus juga pulang bersama surat itu, sebab itulah Paus menyebutnya Sinode penyamun.",
+      "npi_lemma": "sama_sekali",
+      "npi_form": "sama",
+      "lang": "Indonesian",
+      "status": "success",
+      "environment": "neg",
+      "locality": "local",
+      "neg_id": 5,
+      "npi_id": 3,
+      "sent_id": "train-s685",
+      "sentence_npi_count": false,
+      "npis_on_licensor": 1,
+      "min_npi_distance": 2,
+      "swap_direction": "unknown",
+      "neg_form": "tidak",
+      "modified": "Suratnya sama sekali dibacakan dalam konsili dan para utusan paus juga pulang bersama surat itu, sebab itulah Paus menyebutnya Sinode penyamun.",
+      "quantity_level": null,
+      "replacement": null
+    },
+    {
+      "original": "Ia bertahan hidup hanya dengan air gula pemberian teman-temannya saja, karena ia tidak mampu makan sama sekali.",
+      "npi_lemma": "sama_sekali",
+      "npi_form": "sama",
+      "lang": "Indonesian",
+      "status": "success",
+      "environment": "neg",
+      "locality": "local",
+      "neg_id": 15,
+      "npi_id": 18,
+      "sent_id": "train-s879",
+      "sentence_npi_count": false,
+      "npis_on_licensor": 1,
+      "min_npi_distance": 3,
+      "swap_direction": "unknown",
+      "neg_form": "tidak",
+      "modified": "Ia bertahan hidup hanya dengan air gula pemberian teman-temannya saja, karena ia mampu makan sama sekali.",
+      "quantity_level": null,
+      "replacement": null
+    },
+    {
+      "original": "Tiang-tiang yang terbuat dari bata merah dengan bahan perekat kapur dicampur putih telur ini sama sekali tidak menggunakan tulang besi.",
+      "npi_lemma": "sama_sekali",
+      "npi_form": "sama",
+      "lang": "Indonesian",
+      "status": "success",
+      "environment": "neg",
+      "locality": "local",
+      "neg_id": 17,
+      "npi_id": 15,
+      "sent_id": "train-s2303",
+      "sentence_npi_count": false,
+      "npis_on_licensor": 1,
+      "min_npi_distance": 2,
+      "swap_direction": "unknown",
+      "neg_form": "tidak",
+      "modified": "Tiang-tiang yang terbuat dari bata merah dengan bahan perekat kapur dicampur putih telur ini sama sekali menggunakan tulang besi.",
+      "quantity_level": null,
+      "replacement": null
+    },
+    {
+      "original": "Ia sama sekali tidak pernah menolak pemahaman memori emosi; ia hanya menemukan cara-cara lain untuk mengakses emosi, antara lain keyakinan mutlak akan keadaan-keadaan tertentu; pelatihan imajinasi, dan penggunaan aksi fisik.",
+      "npi_lemma": "sama_sekali",
+      "npi_form": "sama",
+      "lang": "Indonesian",
+      "status": "success",
+      "environment": "neg",
+      "locality": "local",
+      "neg_id": 4,
+      "npi_id": 2,
+      "sent_id": "train-s2959",
+      "sentence_npi_count": false,
+      "npis_on_licensor": 1,
+      "min_npi_distance": 2,
+      "swap_direction": "unknown",
+      "neg_form": "tidak",
+      "modified": "Ia sama sekali pernah menolak pemahaman memori emosi; ia hanya menemukan cara-cara lain untuk mengakses emosi, antara lain keyakinan mutlak akan keadaan-keadaan tertentu; pelatihan imajinasi, dan penggunaan aksi fisik.",
+      "quantity_level": null,
+      "replacement": null
+    },
+    {
+      "original": "Cavaille sangat marah dengan peristiwa tersebut dan mengatakan tidak tahu sama sekali akan siapa yang kira-kira melakukan pencurian.",
+      "npi_lemma": "sama_sekali",
+      "npi_form": "sama",
+      "lang": "Indonesian",
+      "status": "success",
+      "environment": "neg",
+      "locality": "local",
+      "neg_id": 9,
+      "npi_id": 11,
+      "sent_id": "csui-train-205",
+      "sentence_npi_count": false,
+      "npis_on_licensor": 1,
+      "min_npi_distance": 2,
+      "swap_direction": "unknown",
+      "neg_form": "tidak",
+      "modified": "Cavaille sangat marah dengan peristiwa tersebut dan mengatakan tahu sama sekali akan siapa yang kira-kira melakukan pencurian.",
+      "quantity_level": null,
+      "replacement": null
+    },
+    {
+      "original": "Burhanuddin menegaskan rakortas sama sekali tidak dibahas adanya pembatasan pinjaman yang dilakukan oleh swasta, termasuk BUMN.",
+      "npi_lemma": "sama_sekali",
+      "npi_form": "sama",
+      "lang": "Indonesian",
+      "status": "success",
+      "environment": "neg",
+      "locality": "local",
+      "neg_id": 6,
+      "npi_id": 4,
+      "sent_id": "csui-train-278",
+      "sentence_npi_count": false,
+      "npis_on_licensor": 1,
+      "min_npi_distance": 2,
+      "swap_direction": "unknown",
+      "neg_form": "tidak",
+      "modified": "Burhanuddin menegaskan rakortas sama sekali dibahas adanya pembatasan pinjaman yang dilakukan oleh swasta, termasuk BUMN.",
+      "quantity_level": null,
+      "replacement": null
+    }
+  ],
+  "blocked_pairs": [],
+  "diagnostics": {
+    "success": 6,
+    "verbless_fragment": 1,
+    "unresolved_no_licensor_None": 3,
+    "unresolved_multiple_licensors_multiple_licensors": 1,
+    "unresolved_local_question": 1
+  },
+  "lemma_counts": {
+    "sama_sekali": {
+      "neg": 0,
+      "total": 12,
+      "undetected": 3,
+      "licensed": 7,
+      "unlicensed": 1,
+      "multi_licensor": 1,
+      "environments": {
+        "neg": 7,
+        "multiple_licensors": 1,
+        "question": 1
+      },
+      "licensing_ratio": 0.583,
+      "undetected_examples": [
+        "Karyanya yang terakhir, kini dikenal sebagai Metode Aksi Fisik, sama sekali bukanlah penolakan terhadap minatnya yang lebih awal terhadap memori perasaan dan memori afektif.",
+        "train-s2631",
+        "dengan cara ini jaringan yang sakit atau terluka dapat dibuang dan penyembuhannya dimungkinkan Sebagai hasil kerja fagositik dari sel darah putih, peradangan dapat dihentikan sama sekali.",
+        "train-s2718",
+        "Atas petunjuk Manuel (Spencer Tracy), seorang nelayan Portugis berhati baik, ia bisa hidup dalam suasana yang sama sekali baru.",
+        "train-s4350"
+      ],
+      "multi_licensor_examples": [
+        "Apa gunanya persetujuan ini apabila buku dari seorang pengarang di sebuah negara yang memiliki perlindungan yang baik diterbitkan di sebuah negara yang perlindungannya buruk atau malah sama sekali tidak ada?",
+        "train-s2831"
+      ],
+      "unlicensed_examples": [
+        "Atau, apa Engkau sudah membuang kami sama sekali?",
+        "dev-s466"
+      ]
+    }
+  }
+}

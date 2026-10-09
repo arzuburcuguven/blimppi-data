@@ -1,0 +1,9 @@
+lang,lemma,total,licensed,licensing_ratio,env,env_count,env_share,min_freq,threshold
+Bulgarian,никой,116,95,0.819,multiple_licensors,6,0.052,6,0.73
+Bulgarian,никой,116,95,0.819,neg,95,0.819,6,0.73
+Bulgarian,никога,25,19,0.76,neg,19,0.76,6,0.73
+Bulgarian,никога,25,19,0.76,question,1,0.04,6,0.73
+Bulgarian,бива,12,10,0.833,neg,10,0.833,6,0.73
+Bulgarian,бива,12,10,0.833,question,1,0.083,6,0.73
+Bulgarian,въобще,6,5,0.833,neg,5,0.833,6,0.73
+Bulgarian,ни,13,11,0.846,neg,11,0.846,6,0.73

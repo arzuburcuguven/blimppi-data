@@ -1,0 +1,8 @@
+lang,lemma,total,licensed,licensing_ratio,env,env_count,env_share,min_freq,threshold
+Norwegian-Nynorsk,spor,19,1,0.053,before_licensor,1,0.053,0,0.0
+Norwegian-Nynorsk,spor,19,1,0.053,is_få,1,0.053,0,0.0
+Norwegian-Nynorsk,heller,60,35,0.583,multiple_licensors,7,0.117,0,0.0
+Norwegian-Nynorsk,heller,60,35,0.583,neg,29,0.483,0,0.0
+Norwegian-Nynorsk,heller,60,35,0.583,is_få,1,0.017,0,0.0
+Norwegian-Nynorsk,heller,60,35,0.583,n_series_neg,2,0.033,0,0.0
+Norwegian-Nynorsk,heller,60,35,0.583,conditional,3,0.05,0,0.0

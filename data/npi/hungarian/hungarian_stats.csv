@@ -1,0 +1,6 @@
+lang,lemma,total,licensed,licensing_ratio,env,env_count,env_share,min_freq,threshold
+Hungarian,semmi,10,5,0.5,neg,5,0.5,0,0.0
+Hungarian,semmi,10,5,0.5,multiple_licensors,1,0.1,0,0.0
+Hungarian,soha,6,5,0.833,neg,5,0.833,0,0.0
+Hungarian,senki,4,3,0.75,neg,3,0.75,0,0.0
+Hungarian,semmilyen,1,0,0.0,multiple_licensors,1,1.0,0,0.0

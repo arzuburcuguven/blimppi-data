@@ -1,0 +1,4 @@
+lang,lemma,total,licensed,licensing_ratio,env,env_count,env_share,min_freq,threshold
+Indonesian,sama_sekali,12,7,0.583,neg,7,0.583,10,0.0
+Indonesian,sama_sekali,12,7,0.583,multiple_licensors,1,0.083,10,0.0
+Indonesian,sama_sekali,12,7,0.583,question,1,0.083,10,0.0

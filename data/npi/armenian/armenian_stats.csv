@@ -1,0 +1,10 @@
+lang,lemma,total,licensed,licensing_ratio,env,env_count,env_share,min_freq,threshold
+Armenian,երբեք,11,9,0.818,neg,9,0.818,1,0.0
+Armenian,երբեք,11,9,0.818,multiple_licensors,1,0.091,1,0.0
+Armenian,ոչինչ,11,9,0.818,neg,9,0.818,1,0.0
+Armenian,ոչինչ,11,9,0.818,local_plus_matrix,1,0.091,1,0.0
+Armenian,ոչինչ,11,9,0.818,multiple_licensors,1,0.091,1,0.0
+Armenian,ոչ_մի,25,21,0.84,neg,21,0.84,1,0.0
+Armenian,ոչ_մի,25,21,0.84,local_plus_matrix,3,0.12,1,0.0
+Armenian,ոչ_ոք,5,4,0.8,neg,4,0.8,1,0.0
+Armenian,ոչ_ոք,5,4,0.8,multiple_licensors,1,0.2,1,0.0

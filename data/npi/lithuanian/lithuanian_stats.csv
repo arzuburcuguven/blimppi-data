@@ -1,0 +1,5 @@
+lang,lemma,total,licensed,licensing_ratio,env,env_count,env_share,min_freq,threshold
+Lithuanian,joks,31,22,0.71,neg,22,0.71,5,0.5
+Lithuanian,niekada,12,10,0.833,neg,10,0.833,5,0.5
+Lithuanian,niekada,12,10,0.833,multiple_matrix_licensors,1,0.083,5,0.5
+Lithuanian,niekas,47,43,0.915,neg,43,0.915,5,0.5

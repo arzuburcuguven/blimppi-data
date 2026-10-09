@@ -1,0 +1,10 @@
+lang,lemma,total,licensed,licensing_ratio,env,env_count,env_share,min_freq,threshold
+Croatian,nikada,23,18,0.783,neg,18,0.783,6,0.73
+Croatian,nitko,47,41,0.872,neg,41,0.872,6,0.73
+Croatian,ni,66,54,0.818,neg,55,0.833,6,0.73
+Croatian,ni,66,54,0.818,multiple_licensors,1,0.015,6,0.73
+Croatian,nikad,30,24,0.8,neg,24,0.8,6,0.73
+Croatian,nikad,30,24,0.8,multiple_licensors,1,0.033,6,0.73
+Croatian,više,14,12,0.857,neg,12,0.857,6,0.73
+Croatian,nikako,11,9,0.818,neg,9,0.818,6,0.73
+Croatian,nikako,11,9,0.818,multiple_licensors,1,0.091,6,0.73

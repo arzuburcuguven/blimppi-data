@@ -1,0 +1,6 @@
+lang,lemma,total,licensed,licensing_ratio,env,env_count,env_share,min_freq,threshold
+Serbian,nikada,20,17,0.85,neg,17,0.85,6,0.73
+Serbian,ni,20,19,0.95,neg,19,0.95,6,0.73
+Serbian,niko,15,13,0.867,neg,13,0.867,6,0.73
+Serbian,nijedan,9,8,0.889,neg,8,0.889,6,0.73
+Serbian,ništa,17,15,0.882,neg,15,0.882,6,0.73

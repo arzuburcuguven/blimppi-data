@@ -1,0 +1,43 @@
+lang,lemma,total,licensed,licensing_ratio,env,env_count,env_share,min_freq,threshold
+Dutch,ook maar,6579,6555,0.996,DE_licensor,623,0.0947,20,0.6
+Dutch,ook maar,6579,6555,0.996,comparative,107,0.0163,20,0.6
+Dutch,ook maar,6579,6555,0.996,conditional,1091,0.1658,20,0.6
+Dutch,ook maar,6579,6555,0.996,superlative,11,0.0017,20,0.6
+Dutch,ook maar,6579,6555,0.996,n_series_neg,1473,0.2239,20,0.6
+Dutch,ook maar,6579,6555,0.996,neg,799,0.1214,20,0.6
+Dutch,ook maar,6579,6555,0.996,neg_predicate,598,0.0909,20,0.6
+Dutch,ook maar,6579,6555,0.996,question,434,0.066,20,0.6
+Dutch,ook maar,6579,6555,0.996,without_pp_licensor,1419,0.2157,20,0.6
+Dutch,ook maar,6579,6555,0.996,undetected_other,24,0.0036,20,0.6
+Dutch,hoeven,5106,5097,0.998,DE_licensor,1045,0.2047,20,0.6
+Dutch,hoeven,5106,5097,0.998,comparative,11,0.0022,20,0.6
+Dutch,hoeven,5106,5097,0.998,superlative,8,0.0016,20,0.6
+Dutch,hoeven,5106,5097,0.998,n_series_neg,1051,0.2058,20,0.6
+Dutch,hoeven,5106,5097,0.998,neg,2799,0.5482,20,0.6
+Dutch,hoeven,5106,5097,0.998,neg_predicate,5,0.001,20,0.6
+Dutch,hoeven,5106,5097,0.998,question,48,0.0094,20,0.6
+Dutch,hoeven,5106,5097,0.998,without_pp_licensor,130,0.0255,20,0.6
+Dutch,hoeven,5106,5097,0.998,undetected_other,9,0.0018,20,0.6
+Dutch,mals,289,289,1.0,DE_licensor,12,0.0415,20,0.6
+Dutch,mals,289,289,1.0,n_series_neg,8,0.0277,20,0.6
+Dutch,mals,289,289,1.0,neg,269,0.9308,20,0.6
+Dutch,pluis,260,257,0.988,DE_licensor,15,0.0577,20,0.6
+Dutch,pluis,260,257,0.988,conditional,3,0.0115,20,0.6
+Dutch,pluis,260,257,0.988,neg,231,0.8885,20,0.6
+Dutch,pluis,260,257,0.988,n_series_neg,5,0.0192,20,0.6
+Dutch,pluis,260,257,0.988,question,3,0.0115,20,0.6
+Dutch,pluis,260,257,0.988,undetected_other,3,0.0115,20,0.6
+Dutch,enig,5007,4527,0.904,DE_licensor,327,0.0653,20,0.6
+Dutch,enig,5007,4527,0.904,comparative,625,0.1248,20,0.6
+Dutch,enig,5007,4527,0.904,without_pp_licensor,906,0.1809,20,0.6
+Dutch,enig,5007,4527,0.904,conditional,283,0.0565,20,0.6
+Dutch,enig,5007,4527,0.904,superlative,42,0.0084,20,0.6
+Dutch,enig,5007,4527,0.904,n_series_neg,1042,0.2081,20,0.6
+Dutch,enig,5007,4527,0.904,neg,498,0.0995,20,0.6
+Dutch,enig,5007,4527,0.904,neg_predicate,286,0.0571,20,0.6
+Dutch,enig,5007,4527,0.904,question,518,0.1035,20,0.6
+Dutch,enig,5007,4527,0.904,undetected_other,480,0.0959,20,0.6
+Dutch,hand voor ogen,66,66,1.0,DE_licensor,3,0.0455,20,0.6
+Dutch,hand voor ogen,66,66,1.0,n_series_neg,61,0.9242,20,0.6
+Dutch,hand voor ogen,66,66,1.0,neg,1,0.0152,20,0.6
+Dutch,hand voor ogen,66,66,1.0,without_pp_licensor,1,0.0152,20,0.6

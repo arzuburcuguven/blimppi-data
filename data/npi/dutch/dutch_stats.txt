@@ -1,0 +1,66 @@
+
+by licensor (env):
+env
+niet       983
+geen       336
+nooit      198
+niemand    136
+niets       74
+nergens     39
+niks         5
+
+by decade:
+year
+1960    287
+1970    248
+1980    134
+1990    249
+2000    234
+2010    284
+2020    335
+
+by NPU lemma:
+lemma
+ook maar          500
+hoeven            500
+enig              484
+mals              163
+pluis              89
+hand voor ogen     35
+
+env x decade:
+year     1960  1970  1980  1990  2000  2010  2020  total
+env                                                     
+geen       58    56    46    39    46    46    45    336
+nergens     8    10     1     6     2     6     6     39
+niemand    31    26     6     9    13    27    24    136
+niet      139   112    58   163   131   159   221    983
+niets      22    13     6     6     7    12     8     74
+niks        1     0     0     0     0     0     4      5
+nooit      28    31    17    26    35    34    27    198
+total     287   248   134   249   234   284   335   1771
+
+lemma x env:
+env             geen  nergens  niemand  niet  niets  niks  nooit  total
+lemma                                                                  
+enig             119       10       39   182     18     0    116    484
+hand voor ogen    35        0        0     0      0     0      0     35
+hoeven            85        6       17   367      7     4     14    500
+mals               1        0        0   161      1     0      0    163
+ook maar          96       23       80   187     48     1     65    500
+pluis              0        0        0    86      0     0      3     89
+total            336       39      136   983     74     5    198   1771
+
+NPI-to-licensor distance by env:
+         count  mean  min  50%   max
+env                                 
+geen     139.0  5.54  1.0  4.0  26.0
+nergens   11.0  3.73  1.0  3.0   9.0
+niemand   39.0  3.69  1.0  2.0  19.0
+niet     485.0  3.00  1.0  2.0  25.0
+niets     20.0  5.60  1.0  4.5  11.0
+niks       2.0  2.50  2.0  2.5   3.0
+nooit    125.0  2.76  1.0  2.0  26.0
+Written 1771 pairs
+{'ook maar': 500, 'hoeven': 500, 'enig': 484, 'mals': 163, 'pluis': 89, 'hand voor ogen': 35}
+exclude count: 17344

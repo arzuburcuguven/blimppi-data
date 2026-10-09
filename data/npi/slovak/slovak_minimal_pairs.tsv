@@ -1,0 +1,295 @@
+sen	wrong_sen	lemma	token_form	swap_direction	npi_to_neg_distance	sent_len	env	sentence_npi_count	npis_on_licensor	sent_id	quantity_level	replacement
+V prípade, že nebudú ani dedičia, nahradia ich univerzity.	V prípade, že budú ani dedičia, nahradia ich univerzity.	ani	ani	unknown	1	9	neg	False	1	sme:1361:.k.	None	None
+Ja sa ale na nikoho nehnevám.	Ja sa ale na nikoho hnevám.	nikto	nikoho	unknown	1	6	neg	False	1	sme:138011:.e.	None	None
+Batoh s PLSS mal tendenciu ich prevažovať dozadu, ale ani jeden z astronautov nemal vážne problémy s udržaním stability.	Batoh s PLSS mal tendenciu ich prevažovať dozadu, ale ani jeden z astronautov mal vážne problémy s udržaním stability.	ani	ani	unknown	4	19	neg	False	1	wikipedia:apollo002:apollo002-p3s2	None	None
+„Prestal som piť v roku 1986 a odvtedy som nevypil ani kvapku".	„Prestal som piť v roku 1986 a odvtedy som vypil ani kvapku".	ani	ani	unknown	1	12	neg	False	1	wikipedia:bush-002:bush_002-p2s3	None	None
+Hoci bol Kjótsky protokol v roku 1998 symbolicky podpísaný Petrom Burleighom, výkonným veľvyslancom USA v Organizácii Spojených národov, vláda Billa Clintona nikdy nepredložila Senátu jeho ratifikáciu.	Hoci bol Kjótsky protokol v roku 1998 symbolicky podpísaný Petrom Burleighom, výkonným veľvyslancom USA v Organizácii Spojených národov, vláda Billa Clintona nikdy predložila Senátu jeho ratifikáciu.	nikdy	nikdy	unknown	1	26	neg	False	1	wikipedia:bush-006:bush_006-p5s2	None	None
+Nestabilný stav reaktora sa nijako neprejavil na kontrolnom paneli a nezdalo sa, že by sa ktokoľvek z obsluhy reaktora obával nebezpečenstva.	Nestabilný stav reaktora sa nijako prejavil na kontrolnom paneli a nezdalo sa, že by sa ktokoľvek z obsluhy reaktora obával nebezpečenstva.	nijako	nijako	unknown	1	21	neg	False	1	wikipedia:cernobyl002:cernobyl002-p6s2	None	None
+Podľa klasickej všeobecnej relativity, žiadna hmota ani informácia nemôže prúdiť z vnútra čiernej diery k vonkajšiemu pozorovateľovi.	Podľa klasickej všeobecnej relativity, žiadna hmota ani informácia môže prúdiť z vnútra čiernej diery k vonkajšiemu pozorovateľovi.	žiaden	žiadna	unknown	2	17	neg	True	2	wikipedia:diera001:diera001-p1s2	None	None
+Všeobecne sa predpokladá, že čierne diery nemajú žiadne pozorovateľné vlastnosti, ktoré by boli použiteľné na objasnenie ich výzoru vo vnútri.	Všeobecne sa predpokladá, že čierne diery majú žiadne pozorovateľné vlastnosti, ktoré by boli použiteľné na objasnenie ich výzoru vo vnútri.	žiaden	žiadne	unknown	1	20	neg	False	1	wikipedia:diera003:diera003-p3s2	None	None
+V roku 1971 Stephen Hawking dokázal, že celková plocha horizontov udalostí akejkoľvek skupiny čiernych dier sa nikdy nezmenší.	V roku 1971 Stephen Hawking dokázal, že celková plocha horizontov udalostí akejkoľvek skupiny čiernych dier sa nikdy zmenší.	nikdy	nikdy	unknown	1	18	neg	False	1	wikipedia:diera005:diera005-p2s1	None	None
+Táto predstava tiež pekne vysvetľuje prečo neexistujú žiadne k nám blízke kvazary.	Táto predstava tiež pekne vysvetľuje prečo existujú žiadne k nám blízke kvazary.	žiaden	žiadne	unknown	1	12	neg	False	1	wikipedia:diera008:diera008-p5s2	None	None
+Dnes nevykazuje žiadna krajina významný lov.	Dnes vykazuje žiadna krajina významný lov.	žiaden	žiadna	unknown	1	6	neg	False	1	wikipedia:kosatka007:kosatka007-p5s1	None	None
+To znamená, že pred niekoľkými miliónmi rokov pri zatmení Slnka Mesiac Slnko vždy úplne zakryl a nemohlo nastať žiadne prstencové zatmenie.	To znamená, že pred niekoľkými miliónmi rokov pri zatmení Slnka Mesiac Slnko vždy úplne zakryl a mohlo nastať žiadne prstencové zatmenie.	žiaden	žiadne	unknown	2	21	neg	False	1	wikipedia:mesiac005:mesiac005-p3s2	None	None
+Takéto porušenie kauzality nebolo nikdy pozorované.	Takéto porušenie kauzality bolo nikdy pozorované.	nikdy	nikdy	unknown	1	6	neg	False	1	wikipedia:svetlo000:svetlo000-p7s4	None	None
+Žiadne oneskorenie však nebolo pozorované.	Žiadne oneskorenie však bolo pozorované.	žiaden	Žiadne	unknown	3	5	neg	False	1	wikipedia:svetlo006:svetlo006-p1s5	None	None
+Existuje malý počet zástancov neštandardných kozmológií, ktorí veria, že v skutočnosti nebol žiaden Veľký tresk.	Existuje malý počet zástancov neštandardných kozmológií, ktorí veria, že v skutočnosti bol žiaden Veľký tresk.	žiaden	žiaden	unknown	1	15	neg	False	1	wikipedia:tre05:tresk_05-p5s1	None	None
+Nijako zvlášť nerozvíjalo armádu (vlastne ju, pokiaľ ide o materiálnu stránku veci, hrubo zanedbávalo) a dôkladne sa snažilo neprovokovať ZSSR.	Nijako zvlášť rozvíjalo armádu (vlastne ju, pokiaľ ide o materiálnu stránku veci, hrubo zanedbávalo) a dôkladne sa snažilo neprovokovať ZSSR.	nijako	Nijako	unknown	2	20	neg	False	1	wikipedia:vojna008:vojna008-p5s3	None	None
+Najskôr prišiel so "serióznymi návrhmi", potom prišiel k hrubým vyhrážkam a keď ani to nepomohlo a Fíni jeho návrhy odmietli, 30. novembra 1939 ich bez vyhlásenia vojny napadol.	Najskôr prišiel so "serióznymi návrhmi", potom prišiel k hrubým vyhrážkam a keď ani to pomohlo a Fíni jeho návrhy odmietli, 30. novembra 1939 ich bez vyhlásenia vojny napadol.	ani	ani	unknown	2	28	neg	False	1	wikipedia:vojna011:vojna011-p6s4	None	None
+Ani nepriateľskí Sasánovci nezaháľali.	Ani nepriateľskí Sasánovci zaháľali.	ani	Ani	unknown	3	4	neg	False	1	wikipedia:wiki-02:wiki_02-p10s1	None	None
+Príčinou problémov bolo aj odmietnutie cisára vládnucími elitami, ktoré ho nikdy neprijali ako seberovného a pomstili sa mu obštrukciami a sabotážami.	Príčinou problémov bolo aj odmietnutie cisára vládnucími elitami, ktoré ho nikdy prijali ako seberovného a pomstili sa mu obštrukciami a sabotážami.	nikdy	nikdy	unknown	1	21	neg	False	1	wikipedia:wiki-02:wiki_02-p21s4	None	None
+Napriek rozsudku sa však nikdy nevzdal vedeckej práce.	Napriek rozsudku sa však nikdy vzdal vedeckej práce.	nikdy	nikdy	unknown	1	8	neg	False	1	wikipedia:wiki1683:wiki1683-p1s124	None	None
+Ale v loyolskom kaštieli nič také nebolo.	Ale v loyolskom kaštieli nič také bolo.	nič	nič	unknown	2	7	neg	False	1	wikipedia:wiki1773-01:.aj.	None	None
+Konečne v neskorej jeseni opustil Španielsko, aby sa tam už nikdy nevrátil.	Konečne v neskorej jeseni opustil Španielsko, aby sa tam už nikdy vrátil.	nikdy	nikdy	unknown	1	12	neg	False	1	wikipedia:wiki1773-03:.ad.	None	None
+Šlachta ani ľud však Zenóna kvôli jeho isaurskému pôvodu neprijali.	Šlachta ani ľud však Zenóna kvôli jeho isaurskému pôvodu prijali.	ani	ani	unknown	8	10	neg	False	1	wikipedia:wiki-22:wiki_22-p9s1	None	None
+Otec veľa rozprával o svojom literárnovednom výskume, ale nevyhýbali sme sa, samozrejme, ani súčasným problémom.	Otec veľa rozprával o svojom literárnovednom výskume, ale vyhýbali sme sa, samozrejme, ani súčasným problémom.	ani	ani	unknown	6	15	neg	False	1	durovic:durovic06-001:durovic06-001-p2s7	None	None
+Nevyhýbali sme sa ani politike.	Vyhýbali sme sa ani politike.	ani	ani	unknown	3	5	neg	False	1	durovic:durovic06-001:durovic06-001-p8s4	None	None
+S hrdinským úsmevom povedala, že uvíta každú kritickú pripomienku, lebo doteraz jej nikto nič konkrétne nepovedal.	S hrdinským úsmevom povedala, že uvíta každú kritickú pripomienku, lebo doteraz jej nikto nič konkrétne povedal.	nikto	nikto	unknown	2	16	neg	True	2	inzine:inzine7147-01:.n.	None	None
+Nikto sa mu nečuduje.	Nikto sa mu čuduje.	nikto	Nikto	unknown	3	4	neg	False	1	inzine:inzine7766:inzine7766-p1s3	None	None
+Berte to tak, že ich píšu Marťania, s ktorými sa nikdy nedorozumiete.	Berte to tak, že ich píšu Marťania, s ktorými sa nikdy dorozumiete.	nikdy	nikdy	unknown	1	12	neg	False	1	inzine:inzine7766:inzine7766-p6s4	None	None
+Tento chlapík sa nikdy autorke nepáčil.	Tento chlapík sa nikdy autorke páčil.	nikdy	nikdy	unknown	2	6	neg	False	1	inzine:inzine7960:inzine7960-p1s2	None	None
+Takto nevyzerá ani autorka článku, ani kamarátova babka.	Takto vyzerá ani autorka článku, ani kamarátova babka.	ani	ani	unknown	1	8	neg	True	2	inzine:inzine9016:inzine9016-p1s2	None	None
+Nič sa nestalo," odpovedala som hanblivo.	Nič sa stalo," odpovedala som hanblivo.	nič	Nič	unknown	2	6	neg	False	1	mojaprvalaska:laa006:laska006-p1s1	None	None
+Nepoznám nikoho, kto dosiahol taký vysoký počet bodov.	Poznám nikoho, kto dosiahol taký vysoký počet bodov.	nikto	nikoho	unknown	1	8	neg	False	1	mojaprvalaska:laa012:laska012-p2s2	None	None
+Nejedz od nej nič," zašepkal.	Jedz od nej nič," zašepkal.	nič	nič	unknown	3	5	neg	False	1	mojaprvalaska:laa028:laska028-p9s4	None	None
+Ani jeden návrh ma nechytil za srdce.	Ani jeden návrh ma chytil za srdce.	ani	Ani	unknown	4	7	neg	False	1	mojaprvalaska:laa031:laska031-p1s1	None	None
+Ďakujem," povedala som, lebo nič lepšie mi nenapadlo.	Ďakujem," povedala som, lebo nič lepšie mi napadlo.	nič	nič	unknown	3	8	neg	False	1	mojaprvalaska:laa037:laska037-p9s1	None	None
+Keď sa raz rozhodla piecť v takú nezvyčajnú hodinu, nikto jej v tom nezabráni.	Keď sa raz rozhodla piecť v takú nezvyčajnú hodinu, nikto jej v tom zabráni.	nikto	nikto	unknown	4	14	neg	False	1	mojaprvalaska:laa039:laska039-p10s2	None	None
+Aby ma Chris nepovažoval za decko pretože, nemám mamin súhlas, nič som mu nevravela.	Aby ma Chris nepovažoval za decko pretože, nemám mamin súhlas, nič som mu vravela.	nič	nič	unknown	3	14	neg	False	1	mojaprvalaska:laa041:laska041-p10s4	None	None
+Človek nikdy nevie, čo ako vypáli.	Človek nikdy vie, čo ako vypáli.	nikdy	nikdy	unknown	1	6	neg	False	1	mojaprvalaska:laa056:laska056-p1s3	None	None
+Nemôže vziať späť ani bozk.	Môže vziať späť ani bozk.	ani	ani	unknown	3	5	neg	False	1	mojaprvalaska:laa058:laska058-p10s4	None	None
+Vlastne som Chrisa pred mamou ešte nikdy nespomenula.	Vlastne som Chrisa pred mamou ešte nikdy spomenula.	nikdy	nikdy	unknown	1	8	neg	False	1	mojaprvalaska:laa060:laska060-p9s3	None	None
+Zrazu sa ma zmocnilo presvedčenie, že som to zbabrala, ani kytička sedmokrások ma nemohla utešiť.	Zrazu sa ma zmocnilo presvedčenie, že som to zbabrala, ani kytička sedmokrások ma mohla utešiť.	ani	ani	unknown	4	15	neg	False	1	mojaprvalaska:laa072:laska072-p3s1	None	None
+Pripadalo by mi znesiteľnejšie, keby kvôli nemu nespal ani Chris.	Pripadalo by mi znesiteľnejšie, keby kvôli nemu spal ani Chris.	ani	ani	unknown	1	10	neg	False	1	mojaprvalaska:laa073:laska073-p2s2	None	None
+Už dávno sa s nimi nehrám, ale ani vo sne by mi nenapadlo, aby som ich vyhodila.	Už dávno sa s nimi nehrám, ale ani vo sne by mi napadlo, aby som ich vyhodila.	ani	ani	unknown	5	17	neg	False	1	mojaprvalaska:laa075:laska075-p8s2	None	None
+Nemôžeš mi nič zakazovať!	Môžeš mi nič zakazovať!	nič	nič	unknown	2	4	neg	False	1	mojaprvalaska:laa077:laska077-p6s2	None	None
+Videla som ju zopár ráz na plaveckých pretekoch, lenže nikdy nás nikto nepredstavil.	Videla som ju zopár ráz na plaveckých pretekoch, lenže nikdy nás nikto predstavil.	nikdy	nikdy	unknown	1	13	neg	True	2	mojaprvalaska:laa083:laska083-p9s3	None	None
+Takto ten projekt naozaj nikdy nedokončím.	Takto ten projekt naozaj nikdy dokončím.	nikdy	nikdy	unknown	1	6	neg	False	1	mojaprvalaska:laa087:laska087-p8s3	None	None
+Za celé tie roky som ani raz neodovzdala prácu po termíne.	Za celé tie roky som ani raz odovzdala prácu po termíne.	ani	ani	unknown	2	11	neg	False	1	mojaprvalaska:laa088:laska088-p2s4	None	None
+Nemohla som tú otázku zodpovedať ani pánu Tayerlemu, ani sebe.	Mohla som tú otázku zodpovedať ani pánu Tayerlemu, ani sebe.	ani	ani	unknown	5	10	neg	True	2	mojaprvalaska:laa088:laska088-p6s1	None	None
+Správal sa, akoby sa nič nestalo.	Správal sa, akoby sa nič stalo.	nič	nič	unknown	1	6	neg	False	1	mojaprvalaska:laa088:laska088-p8s2	None	None
+Poznám tvojho otca veľmi dobre a viem, že sa nikdy nezmení.	Poznám tvojho otca veľmi dobre a viem, že sa nikdy zmení.	nikdy	nikdy	unknown	1	11	neg	False	1	mojaprvalaska:laa090:laska090-p8s2	None	None
+Chvalabohu, nič sa mu nestalo.	Chvalabohu, nič sa mu stalo.	nič	nič	unknown	3	5	neg	False	1	mojaprvalaska:laa094:laska094-p10s3	None	None
+Nijaké záhady sa nekonajú," odvetil Chris.	Nijaké záhady sa konajú," odvetil Chris.	nijaký	Nijaké	unknown	3	6	neg	False	1	mojaprvalaska:laa104:laska104-p5s1	None	None
+Obaja sme sa usmiali, lebo nám obom bolo jasné, že naše rande nikdy nebude len také obyčajné.	Obaja sme sa usmiali, lebo nám obom bolo jasné, že naše rande nikdy bude len také obyčajné.	nikdy	nikdy	unknown	1	17	neg	False	1	mojaprvalaska:laa110:laska110-p5s1	None	None
+Žiaden z pápežov pred Gregorom VII. nešiel do priamej konfrontácie s najvyšším reprezentantom svetskej moci.	Žiaden z pápežov pred Gregorom VII. šiel do priamej konfrontácie s najvyšším reprezentantom svetskej moci.	žiaden	Žiaden	unknown	7	15	neg	False	1	mucska:muca041:mucska041-p4s1	None	None
+Na druhej strane je zaujímavé, že v sledovaných cirkevnoprávnych zbierkach sme nenašli žiadne ustanovenia o podmienkach využívania azylu.	Na druhej strane je zaujímavé, že v sledovaných cirkevnoprávnych zbierkach sme našli žiadne ustanovenia o podmienkach využívania azylu.	žiaden	žiadne	unknown	1	18	neg	False	1	mucska:muca077:mucska077-p5s1	None	None
+Pri stanovení termínu veľkého pôstu siahli uhorskí zákonodarcovia k jeho starej východnej podobe ešte spred 7. storočia, ktorá sa v 11. storočí nepoužívala už ani na kresťanskom východe ani na západe.	Pri stanovení termínu veľkého pôstu siahli uhorskí zákonodarcovia k jeho starej východnej podobe ešte spred 7. storočia, ktorá sa v 11. storočí používala už ani na kresťanskom východe ani na západe.	ani	ani	unknown	2	31	neg	True	2	mucska:muca118:mucska118-p1s2	None	None
+Žiadne z nich nevykazujú nejaké reformné vplyvy.	Žiadne z nich vykazujú nejaké reformné vplyvy.	žiaden	Žiadne	unknown	3	7	neg	False	1	mucska:muca118:mucska118-p2s2	None	None
+Nemalo nijaké okná.	Malo nijaké okná.	nijaký	nijaké	unknown	1	3	neg	False	1	orwell1984:bsnk07:.b.	None	None
+Straníčky sa nikdy nefarbili.	Straníčky sa nikdy farbili.	nikdy	nikdy	unknown	1	4	neg	False	1	orwell1984:bsnk109:.h.	None	None
+Sexuálne puritánstvo Strany im nikto nevnútil.	Sexuálne puritánstvo Strany im nikto vnútil.	nikto	nikto	unknown	1	6	neg	False	1	orwell1984:bsnk125:.k.	None	None
+Polovica z nej nikdy nespoznala topánky.	Polovica z nej nikdy spoznala topánky.	nikdy	nikdy	unknown	1	6	neg	False	1	orwell1984:bsnk162:.j.	None	None
+Nechcem nič konkrétne.	Chcem nič konkrétne.	nič	nič	unknown	1	3	neg	False	1	orwell1984:bsnk178:.e.	None	None
+Nič sa nedalo robiť.	Nič sa dalo robiť.	nič	Nič	unknown	2	4	neg	False	1	orwell1984:bsnk216:.j.	None	None
+Veľkého brata nepočul nikto.	Veľkého brata počul nikto.	nikto	nikto	unknown	1	4	neg	False	1	orwell1984:bsnk23:.h.	None	None
+Tentoraz nemal nijaké ťažkosti.	Tentoraz mal nijaké ťažkosti.	nijaký	nijaké	unknown	1	4	neg	False	1	orwell1984:bsnk252:.c.	None	None
+Nikdy nepočula o Bratstve a odmietala veriť v jeho existenciu.	Nikdy počula o Bratstve a odmietala veriť v jeho existenciu.	nikdy	Nikdy	unknown	1	10	neg	False	1	orwell1984:bsnk262:.k.	None	None
+Vlastne by to na veci nič nezmenilo," poznamenal.	Vlastne by to na veci nič zmenilo," poznamenal.	nič	nič	unknown	1	8	neg	False	1	orwell1984:bsnk271:.g.	None	None
+Ako predpokladal, pán Charrington nerobil s prenájmom izby nijaké drahoty.	Ako predpokladal, pán Charrington robil s prenájmom izby nijaké drahoty.	nijaký	nijaké	unknown	4	10	neg	False	1	orwell1984:bsnk276:.g.	None	None
+Niet pochýb, že nikdy nemohlo jestvovať obdobie, keď to bolo celkom bežné.	Niet pochýb, že nikdy mohlo jestvovať obdobie, keď to bolo celkom bežné.	nikdy	nikdy	unknown	1	12	neg	False	1	orwell1984:bsnk290:.h.	None	None
+Dôsledky učenia Strany ju ani trochu nezaujímali.	Dôsledky učenia Strany ju ani trochu zaujímali.	ani	ani	unknown	2	7	neg	False	1	orwell1984:bsnk313:.i.	None	None
+Nikdy som sa nezaoberal otázkami vlastnej tvorby jazyka.	Nikdy som sa zaoberal otázkami vlastnej tvorby jazyka.	nikdy	Nikdy	unknown	3	8	neg	False	1	orwell1984:bsnk316:.f.	None	None
+Nik neprehovoril.	Nik prehovoril.	nikto	Nik	unknown	1	2	neg	False	1	orwell1984:bsnk340:.h.	None	None
+Svojim členom nikdy nepomáhame.	Svojim členom nikdy pomáhame.	nikdy	nikdy	unknown	1	4	neg	False	1	orwell1984:bsnk356:.j.	None	None
+Oficiálne sa partneri nikdy nezmenili.	Oficiálne sa partneri nikdy zmenili.	nikdy	nikdy	unknown	1	5	neg	False	1	orwell1984:bsnk57:.g.	None	None
+Strana vyhlásila, že Oceánia nikdy nebola spojencom Euroázie.	Strana vyhlásila, že Oceánia nikdy bola spojencom Euroázie.	nikdy	nikdy	unknown	1	8	neg	False	1	orwell1984:bsnk58:.b.	None	None
+Pravdepodobne sa napokon nevyrobili vôbec nijaké topánky.	Pravdepodobne sa napokon vyrobili vôbec nijaké topánky.	nijaký	nijaké	unknown	2	7	neg	False	1	orwell1984:bsnk69:.c.	None	None
+Je síce pravda, že nijaký súdruh Ogilvy nikdy neexistoval, ale zopár riadkov v tlači a niekoľko vyfabrikovaných fotografií čoskoro splodia jeho existenciu.	Je síce pravda, že nijaký súdruh Ogilvy nikdy existoval, ale zopár riadkov v tlači a niekoľko vyfabrikovaných fotografií čoskoro splodia jeho existenciu.	nijaký	nijaký	unknown	1	22	neg	True	2	orwell1984:bsnk76:.e.	None	None
+Pokým nevyprázdnili misky, ani jeden z nich už neprehovoril.	Pokým nevyprázdnili misky, ani jeden z nich už prehovoril.	ani	ani	unknown	5	9	neg	False	1	orwell1984:bsnk82:.k.	None	None
+Postrehla, že má akési čudné topánky, vraj ešte nikdy predtým také topánky nevidela.	Postrehla, že má akési čudné topánky, vraj ešte nikdy predtým také topánky videla.	nikdy	nikdy	unknown	4	13	neg	False	1	orwell1984:bsnk97:.i.	None	None
+Potomstvo sa o tebe nikdy nedozvie.	Potomstvo sa o tebe nikdy dozvie.	nikdy	nikdy	unknown	1	6	neg	False	1	orwell1984:b2102aa2:.au.	None	None
+Nikoho, kto raz vybočil, neušetríme.	Nikoho, kto raz vybočil, ušetríme.	nikto	Nikoho	unknown	6	5	neg	False	1	orwell1984:b2103aa2:.as.	None	None
+Nijaký taký papier neexistoval.	Nijaký taký papier existoval.	nijaký	Nijaký	unknown	3	4	neg	False	1	orwell1984:b2104aa2:.al.	None	None
+V budúcnosti však nebudú ani manželky, ani priatelia.	V budúcnosti však budú ani manželky, ani priatelia.	ani	ani	unknown	1	8	neg	True	2	orwell1984:b2110aa2:.d.	None	None
+O 'Brien nič nepoznamenal.	O 'Brien nič poznamenal.	nič	nič	unknown	1	4	neg	False	1	orwell1984:b2111aa2:.aq.	None	None
+Bolo to beznádejné, nedokázal sa zdvihnúť ani o centimeter.	Bolo to beznádejné, dokázal sa zdvihnúť ani o centimeter.	ani	ani	unknown	3	9	neg	False	1	orwell1984:b2114aa2:.an.	None	None
+Jedno však bolo isté: smrť nikdy nepríde v očakávanú chvíľu.	Jedno však bolo isté: smrť nikdy príde v očakávanú chvíľu.	nikdy	nikdy	unknown	1	10	neg	False	1	orwell1984:b2116aa2:.r.	None	None
+Winston si tu nemusel objednávať nič.	Winston si tu musel objednávať nič.	nič	nič	unknown	2	6	neg	False	1	orwell1984:b2121aa2:.q.	None	None
+Vo svojom blaženom sne Winston nevenoval nijakú pozornosť tomu, že mu nalieva pohár.	Vo svojom blaženom sne Winston venoval nijakú pozornosť tomu, že mu nalieva pohár.	nijaký	nijakú	unknown	1	13	neg	False	1	orwell1984:b2125aa2:.n.	None	None
+Každý pohlavný styk, ktorému nič nechýbalo, bol vzburou.	Každý pohlavný styk, ktorému nič chýbalo, bol vzburou.	nič	nič	unknown	1	8	neg	False	1	orwell1984:b224aa2:.aa.	None	None
+V mysli mu naskočila O 'Brienova tvár, aj keď ju nevyvolala nijaká konkrétna asociácia.	V mysli mu naskočila O 'Brienova tvár, aj keď ju vyvolala nijaká konkrétna asociácia.	nijaký	nijaká	unknown	1	14	neg	False	1	orwell1984:b228aa2:.al.	None	None
+Už štrnásť mesiacov nijaké číslo so sedmičkou na konci nevyhralo.	Už štrnásť mesiacov nijaké číslo so sedmičkou na konci vyhralo.	nijaký	nijaké	unknown	6	10	neg	False	1	orwell1984:b230aa2:.ac.	None	None
+Nič lepšie robiť nemohol.	Nič lepšie robiť mohol.	nič	Nič	unknown	3	4	neg	False	1	orwell1984:b247aa2:.g.	None	None
+Zišlo mu na um, že ešte stále nepozná jej priezvisko, ani jej adresu.	Zišlo mu na um, že ešte stále pozná jej priezvisko, ani jej adresu.	ani	ani	unknown	4	13	neg	False	1	orwell1984:b251aa2:.x.	None	None
+Na nič spred začiatku šesťdesiatych rokov sa nepamätala a (zo všetkých známych) jediný človek, ktorý často rozprával o rokoch pred Revolúciou, bol jej starý otec.	Na nič spred začiatku šesťdesiatych rokov sa pamätala a (zo všetkých známych) jediný človek, ktorý často rozprával o rokoch pred Revolúciou, bol jej starý otec.	nič	nič	unknown	6	25	neg	False	1	orwell1984:b252aa2:.au.	None	None
+Nenatrafili na nikoho, koho by sa mohli opýtať na cestu.	Natrafili na nikoho, koho by sa mohli opýtať na cestu.	nikto	nikoho	unknown	2	10	neg	False	1	orwell1984:b254aa2:.y.	None	None
+Nikdy nič podobné nevidel.	Nikdy nič podobné videl.	nikdy	Nikdy	unknown	2	4	neg	True	2	orwell1984:b254aa2:.ae.	None	None
+Na niektorých uliciach metropoly sa matky ani na chvíľku neodvážia nechať svoje bábätká samotné.	Na niektorých uliciach metropoly sa matky ani na chvíľku odvážia nechať svoje bábätká samotné.	ani	ani	unknown	3	14	neg	False	1	orwell1984:b259aa2:.p.	None	None
+Nikdy by jej nezišlo na um, že bezvýsledný čin nemá význam.	Nikdy by jej zišlo na um, že bezvýsledný čin nemá význam.	nikdy	Nikdy	unknown	3	11	neg	False	1	orwell1984:b266aa2:.ap.	None	None
+Pomyslel na obrazovku s uchom, ktorá nikdy neusne.	Pomyslel na obrazovku s uchom, ktorá nikdy usne.	nikdy	nikdy	unknown	1	8	neg	False	1	orwell1984:b267aa2:.at.	None	None
+Nezazrel na nej nijaké jazvy.	Zazrel na nej nijaké jazvy.	nijaký	nijaké	unknown	3	5	neg	False	1	orwell1984:b270aa2:.ax.	None	None
+Okrem zajatcov priemerný občan Oceánie nikdy nezočí občana Euroázie alebo Východoázie a zakazuje sa ovládať cudzie jazyky.	Okrem zajatcov priemerný občan Oceánie nikdy zočí občana Euroázie alebo Východoázie a zakazuje sa ovládať cudzie jazyky.	nikdy	nikdy	unknown	1	17	neg	False	1	orwell1984:b278aa2:.ad.	None	None
+Ešte nikto nikdy Veľkého brata nevidel.	Ešte nikto nikdy Veľkého brata videl.	nikto	nikto	unknown	3	6	neg	True	2	orwell1984:b282aa2:.o.	None	None
+Tento stav vecí však nebýva ani trvalý, ani zásadný.	Tento stav vecí však býva ani trvalý, ani zásadný.	ani	ani	unknown	1	9	neg	True	2	orwell1984:b282aa2:.al.	None	None
+V ničom nemá slobodu voľby.	V ničom má slobodu voľby.	nič	ničom	unknown	1	5	neg	False	1	orwell1984:b283aa2:.l.	None	None
+Na druhej strane jeho činy neupravuje nijaký zákon, ani nijaký jasne sformulovaný kódex správania.	Na druhej strane jeho činy upravuje nijaký zákon, ani nijaký jasne sformulovaný kódex správania.	nijaký	nijaký	unknown	1	14	neg	True	3	orwell1984:b283aa2:.m.	None	None
+Strana má vždy patent na absolútnu pravdu a je jasné, že absolútno nemohlo byť nikdy iné, než je teraz.	Strana má vždy patent na absolútnu pravdu a je jasné, že absolútno mohlo byť nikdy iné, než je teraz.	nikdy	nikdy	unknown	2	19	neg	False	1	orwell1984:b284aa2:.c.	None	None
+Z ich tiel nikdy nijaké dieťa nepovstane.	Z ich tiel nikdy nijaké dieťa povstane.	nikdy	nikdy	unknown	2	7	neg	True	2	orwell1984:b286aa2:.i.	None	None
+Nikto ho zatiaľ neuderil.	Nikto ho zatiaľ uderil.	nikto	Nikto	unknown	3	4	neg	False	1	orwell1984:b287aa2:.au.	None	None
+Od zatknutia nemal v ústach nič.	Od zatknutia mal v ústach nič.	nič	nič	unknown	3	6	neg	False	1	orwell1984:b288aa2:.aj.	None	None
+Nik iný ho neoslovil.	Nik iný ho oslovil.	nikto	Nik	unknown	3	4	neg	False	1	orwell1984:b289aa2:.ad.	None	None
+Tu dnu, to vedel inštinktívne, sa svetlá nikdy nevypínajú.	Tu dnu, to vedel inštinktívne, sa svetlá nikdy vypínajú.	nikdy	nikdy	unknown	1	9	neg	False	1	orwell1984:b290aa2:.e.	None	None
+Z televíznej obrazovky ho nik neokríkol.	Z televíznej obrazovky ho nik okríkol.	nikto	nik	unknown	1	6	neg	False	1	orwell1984:b290aa2:.z.	None	None
+Nie, táto zvláštna myšlienka nikdy Winstonovi na um nezišla.	Nie, táto zvláštna myšlienka nikdy Winstonovi na um zišla.	nikdy	nikdy	unknown	4	9	neg	False	1	orwell1984:b290aa2:.au.	None	None
+Neskrývame však ani obavy a pochybnosti.	Skrývame však ani obavy a pochybnosti.	ani	ani	unknown	2	6	neg	False	1	patmos:patmos-001:patmos_001-p1s3	None	None
+Bez Ducha Svätého nebudeme schopní ničoho.	Bez Ducha Svätého budeme schopní ničoho.	nič	ničoho	unknown	2	6	neg	False	1	patmos:patmos-001:patmos_001-p2s22	None	None
+Svetové ríše, silné krajiny, politické systémy vznikajú a zanikajú, nič netrvá večne.	Svetové ríše, silné krajiny, politické systémy vznikajú a zanikajú, nič trvá večne.	nič	nič	unknown	1	12	neg	False	1	patmos:patmos-004:patmos_004-p3s3	None	None
+Napriek týmto úžasným poznatkom vedy a techniky neexistuje zatiaľ žiadna definícia, čo je to život.	Napriek týmto úžasným poznatkom vedy a techniky existuje zatiaľ žiadna definícia, čo je to život.	žiaden	žiadna	unknown	2	15	neg	False	1	patmos:patmos-014:patmos_014-p6s4	None	None
+Nemôžeme sa skrývať za masu ani za tradíciu cirkvi, keď nás Kristus oslovuje na ceste nášho života.	Môžeme sa skrývať za masu ani za tradíciu cirkvi, keď nás Kristus oslovuje na ceste nášho života.	ani	ani	unknown	5	17	neg	False	1	patmos:patmos2-00:patmos2_00-p2s2	None	None
+Ani tieto základné zručnosti neovláda každé dieťa!	Ani tieto základné zručnosti ovláda každé dieťa!	ani	Ani	unknown	4	7	neg	False	1	patmos:patmos2-06:patmos2_06-p1s5	None	None
+Ani Izraelci neboli na púšti naveky.	Ani Izraelci boli na púšti naveky.	ani	Ani	unknown	2	6	neg	False	1	patmos:patmos2-07:patmos2_07-p1s5	None	None
+Výsledkom bude, že v nijakej oblasti sa nespotrebuje viac zdrojov, ako na ňu bude vyčlenených v rozpočtoch, ktoré schváli NR SR, resp. jednotlivé samosprávne orgány.	Výsledkom bude, že v nijakej oblasti sa spotrebuje viac zdrojov, ako na ňu bude vyčlenených v rozpočtoch, ktoré schváli NR SR, resp. jednotlivé samosprávne orgány.	nijaký	nijakej	unknown	3	25	neg	False	1	programvyhlasenie:PV-007:PV_007-p1s2	None	None
+Ja som ich ani nepočúval, ani som si nič nemyslel.	Ja som ich ani počúval, ani som si nič nemyslel.	ani	ani	unknown	1	10	neg	True	1	psiakoza:Psia-koza-004:Psia_koza_004-p1s1	None	None
+Lori nemala ani najmenšie podozrenie, že vo mne sa prebudilo zviera.	Lori mala ani najmenšie podozrenie, že vo mne sa prebudilo zviera.	ani	ani	unknown	1	11	neg	False	1	psiakoza:Psia-koza-004:Psia_koza_004-p1s7	None	None
+Nostradamus nič také nepredpovedal...	Nostradamus nič také predpovedal...	nič	nič	unknown	2	4	neg	False	1	psiakoza:Psia-koza-004:Psia_koza_004-p3s5	None	None
+Ale ja som Marge nič nepovedal ani v to ráno, ani neskôr.	Ale ja som Marge nič povedal ani v to ráno, ani neskôr.	nič	nič	unknown	1	12	neg	True	3	psiakoza:Psia-koza-004:Psia_koza_004-p4s7	None	None
+Nič som však nepovedal.	Nič som však povedal.	nič	Nič	unknown	3	4	neg	False	1	psiakoza:Psia-koza-008:Psia_koza_008-p4s4	None	None
+Ani v ten deň, ani neskôr som nemal možnosť pozrieť sa mu zblízka do tváre.	Ani v ten deň, ani neskôr som mal možnosť pozrieť sa mu zblízka do tváre.	ani	Ani	unknown	3	15	neg	True	2	psiakoza:Psia-koza-009:Psia_koza_009-p2s2	None	None
+Nikto neprotestoval, že sa predbiehame.	Nikto protestoval, že sa predbiehame.	nikto	Nikto	unknown	1	5	neg	False	1	psiakoza:Psia-koza-010:Psia_koza_010-p3s6	None	None
+Nevidel som nič, nikto ma nesledoval.	Videl som nič, nikto ma nesledoval.	nič	nič	unknown	2	6	neg	True	1	psiakoza:Psia-koza-011:Psia_koza_011-p4s9	None	None
+Nevidel som nič, nikto ma nesledoval.	Nevidel som nič, nikto ma sledoval.	nikto	nikto	unknown	2	6	neg	True	1	psiakoza:Psia-koza-011:Psia_koza_011-p4s9	None	None
+Musím rešpektovať Marginu požiadavku, aby som deťom nič nepovedal, a zároveň musím nájsť pre Irmu nejaké presvedčivé vysvetlenie.	Musím rešpektovať Marginu požiadavku, aby som deťom nič povedal, a zároveň musím nájsť pre Irmu nejaké presvedčivé vysvetlenie.	nič	nič	unknown	1	18	neg	False	1	psiakoza:Psia-koza-011:Psia_koza_011-p4s11	None	None
+Nič som nevidel.	Nič som videl.	nič	Nič	unknown	2	3	neg	False	1	psiakoza:Psia-koza-012:Psia_koza_012-p1s3	None	None
+Možno som vôbec nič nepovedal.	Možno som vôbec nič povedal.	nič	nič	unknown	1	5	neg	False	1	psiakoza:Psia-koza-013:Psia_koza_013-p1s5	None	None
+Ani sa to nechcem dozvedieť.	Ani sa to chcem dozvedieť.	ani	Ani	unknown	3	5	neg	False	1	psiakoza:Psia-koza-013:Psia_koza_013-p2s3	None	None
+Ja pred jej príchodom neprežívam nič čarokrásne.	Ja pred jej príchodom prežívam nič čarokrásne.	nič	nič	unknown	1	7	neg	False	1	psiakoza:Psia-koza-013:Psia_koza_013-p2s7	None	None
+Za to, že som neprehltol spomenutú návnadu, nevďačím nijakej inteligencii.	Za to, že som neprehltol spomenutú návnadu, vďačím nijakej inteligencii.	nijaký	nijakej	unknown	1	10	neg	False	1	psiakoza:Psia-koza-014:Psia_koza_014-p1s2	None	None
+Nikto mi neodpovedal.	Nikto mi odpovedal.	nikto	Nikto	unknown	2	3	neg	False	1	psiakoza:Psia-koza-014:Psia_koza_014-p2s1	None	None
+Nikto ma nepočúval.	Nikto ma počúval.	nikto	Nikto	unknown	2	3	neg	False	1	psiakoza:Psia-koza-014:Psia_koza_014-p4s1	None	None
+Nenamietam ani teraz.	Namietam ani teraz.	ani	ani	unknown	1	3	neg	False	1	psiakoza:Psia-koza-016:Psia_koza_016-p2s7	None	None
+Iba sa trochu sklonila, odkryla deku a ja som uvidel tvár spiaceho človiečika, ktorý nemal takmer nijaké vlasy.	Iba sa trochu sklonila, odkryla deku a ja som uvidel tvár spiaceho človiečika, ktorý mal takmer nijaké vlasy.	nijaký	nijaké	unknown	2	18	neg	False	1	psiakoza:Psia-koza-017:Psia_koza_017-p3s7	None	None
+Neopustila ma celý týždeň ani celé leto.	Opustila ma celý týždeň ani celé leto.	ani	ani	unknown	4	7	neg	False	1	psiakoza:Psia-koza-017:Psia_koza_017-p3s13	None	None
+Ani v ten deň, ani neskôr som nepovedal kamarátom o návšteve, ktorá k nám prišla.	Ani v ten deň, ani neskôr som povedal kamarátom o návšteve, ktorá k nám prišla.	ani	Ani	unknown	3	15	neg	True	2	psiakoza:Psia-koza-019:Psia_koza_019-p1s4	None	None
+Nechodieval k nemu nikto okrem stareny v širokých nohaviciach.	Chodieval k nemu nikto okrem stareny v širokých nohaviciach.	nikto	nikto	unknown	3	9	neg	False	1	psiakoza:Psia-koza-019:Psia_koza_019-p3s2	None	None
+Keďže som neprišiel na nič lepšie, sedel som celý deň vo svojej izbe a v duchu som si predstavoval, že som ušiel z domu.	Keďže som prišiel na nič lepšie, sedel som celý deň vo svojej izbe a v duchu som si predstavoval, že som ušiel z domu.	nič	nič	unknown	2	24	neg	False	1	psiakoza:Psia-koza-020:Psia_koza_020-p3s10	None	None
+Ani bratanci sa sem už neodvážia prísť, priatelia k nám prestali chodiť na návštevu už dávno.	Ani bratanci sa sem už odvážia prísť, priatelia k nám prestali chodiť na návštevu už dávno.	ani	Ani	unknown	5	16	neg	False	1	psiakoza:Psia-koza-022:Psia_koza_022-p1s5	None	None
+Tohto pocitu som sa nezbavil ani v triede.	Tohto pocitu som sa zbavil ani v triede.	ani	ani	unknown	1	8	neg	False	1	psiakoza:Psia-koza-022:Psia_koza_022-p4s3	None	None
+Nič také som neurobil.	Nič také som urobil.	nič	Nič	unknown	3	4	neg	False	1	psiakoza:Psia-koza-022:Psia_koza_022-p4s13	None	None
+Neodvážili sa ho dráždiť ani decká, ani psy.	Odvážili sa ho dráždiť ani decká, ani psy.	ani	ani	unknown	4	8	neg	True	2	psiakoza:Psia-koza-023:Psia_koza_023-p3s6	None	None
+Nikto mu nevenoval pozornosť.	Nikto mu venoval pozornosť.	nikto	Nikto	unknown	2	4	neg	False	1	psiakoza:Psia-koza-023:Psia_koza_023-p4s2	None	None
+Ale nikto sa neodhodlal spustiť posmešky.	Ale nikto sa odhodlal spustiť posmešky.	nikto	nikto	unknown	2	6	neg	False	1	psiakoza:Psia-koza-023:Psia_koza_023-p4s6	None	None
+Na dverách od profesorovej izby bola vosková pečať, zo stareninej izby sa neozývali nijaké zvuky.	Na dverách od profesorovej izby bola vosková pečať, zo stareninej izby sa ozývali nijaké zvuky.	nijaký	nijaké	unknown	1	15	neg	False	1	psiakoza:Psia-koza-026:Psia_koza_026-p1s8	None	None
+Kráčal som za ním po tichej chodbe nemocničného pavilónu a ani som si nevšimol, že Irma nie je s nami.	Kráčal som za ním po tichej chodbe nemocničného pavilónu a ani som si všimol, že Irma nie je s nami.	ani	ani	unknown	3	20	neg	False	1	psiakoza:Psia-koza-027:Psia_koza_027-p1s11	None	None
+Zostal som stáť, ani som sa nepohol.	Zostal som stáť, ani som sa pohol.	ani	ani	unknown	3	7	neg	False	1	psiakoza:Psia-koza-027:Psia_koza_027-p2s9	None	None
+Čo bolo v listoch posielaných nahor, nikdy som sa nedozvedel.	Čo bolo v listoch posielaných nahor, nikdy som sa dozvedel.	nikdy	nikdy	unknown	3	10	neg	False	1	psiakoza:Psia-koza-029:Psia_koza_029-p4s5	None	None
+Nestalo sa nič mimoriadne.	Stalo sa nič mimoriadne.	nič	nič	unknown	2	4	neg	False	1	psiakoza:Psia-koza-031:Psia_koza_031-p2s4	None	None
+Samozrejme, ja som o tom nič nevedel.	Samozrejme, ja som o tom nič vedel.	nič	nič	unknown	1	7	neg	False	1	psiakoza:Psia-koza-035:Psia_koza_035-p1s1	None	None
+Nemohol som sa na nič sústrediť, nevládal som zniesť nikoho pri sebe: ani Margu, ani mamu, ani Toma.	Mohol som sa na nič sústrediť, nevládal som zniesť nikoho pri sebe: ani Margu, ani mamu, ani Toma.	nič	nič	unknown	4	18	neg	True	1	psiakoza:Psia-koza-035:Psia_koza_035-p3s5	None	None
+A keď sa Dolora na znak pochopenia spýtala Toma na jeho meno, neodpovedal jej ani on.	A keď sa Dolora na znak pochopenia spýtala Toma na jeho meno, odpovedal jej ani on.	ani	ani	unknown	2	16	neg	False	1	psiakoza:Psia-koza-035:Psia_koza_035-p4s4	None	None
+Ja som ten vzťah nikdy nepovažoval za nečistý.	Ja som ten vzťah nikdy považoval za nečistý.	nikdy	nikdy	unknown	1	8	neg	False	1	psiakoza:Psia-koza-037:Psia_koza_037-p2s5	None	None
+Neodvážil som sa jej nič povedať.	Odvážil som sa jej nič povedať.	nič	nič	unknown	4	6	neg	False	1	psiakoza:Psia-koza-040:Psia_koza_040-p3s3	None	None
+Nič sme o sebe nevedeli.	Nič sme o sebe vedeli.	nič	Nič	unknown	4	5	neg	False	1	psiakoza:Psia-koza-040:Psia_koza_040-p3s8	None	None
+Nepovedal som jej nič.	Povedal som jej nič.	nič	nič	unknown	3	4	neg	False	1	psiakoza:Psia-koza-043:Psia_koza_043-p3s14	None	None
+Ale oni nič nerobili ani nehovorili.	Ale oni nič robili ani nehovorili.	nič	nič	unknown	1	6	neg	True	1	psiakoza:Psia-koza-047:Psia_koza_047-p3s4	None	None
+Nenapísal som nič.	Napísal som nič.	nič	nič	unknown	2	3	neg	False	1	psiakoza:Psia-koza-051:Psia_koza_051-p2s5	None	None
+Teraz ťa pozývam ja, povedal som, ale Lori odvetila, že nič nechce.	Teraz ťa pozývam ja, povedal som, ale Lori odvetila, že nič chce.	nič	nič	unknown	1	12	neg	False	1	psiakoza:Psia-koza-054:Psia_koza_054-p1s3	None	None
+Nevidel som nijakú uniformu.	Videl som nijakú uniformu.	nijaký	nijakú	unknown	2	4	neg	False	1	psiakoza:Psia-koza-058:Psia_koza_058-p1s6	None	None
+Nedovolím to ani jednému, ani druhému.	Dovolím to ani jednému, ani druhému.	ani	ani	unknown	2	6	neg	True	2	psiakoza:Psia-koza-058:Psia_koza_058-p4s6	None	None
+Ale ja som si nič nevšimol.	Ale ja som si nič všimol.	nič	nič	unknown	1	6	neg	False	1	psiakoza:Psia-koza-059:Psia_koza_059-p4s3	None	None
+Už dávno som stratil kontakt so svetom kina a v nových televíziách ma nikto nepoznal.	Už dávno som stratil kontakt so svetom kina a v nových televíziách ma nikto poznal.	nikto	nikto	unknown	1	15	neg	False	1	psiakoza:Psia-koza-062:Psia_koza_062-p4s16	None	None
+V skutočnosti to nebola nijaká vila.	V skutočnosti to bola nijaká vila.	nijaký	nijaká	unknown	1	6	neg	False	1	psiakoza:Psia-koza-069:Psia_koza_069-p2s1	None	None
+Ten telnatý muž sa ma nič nevypytoval.	Ten telnatý muž sa ma nič vypytoval.	nič	nič	unknown	1	7	neg	False	1	psiakoza:Psia-koza-070:Psia_koza_070-p1s5	None	None
+V Čarodejníckej vile sa nikto netešil takému privilégiu.	V Čarodejníckej vile sa nikto tešil takému privilégiu.	nikto	nikto	unknown	1	8	neg	False	1	psiakoza:Psia-koza-070:Psia_koza_070-p1s21	None	None
+Vďaka týmto skúsenostiam pre mňa teoreticky neexistovalo nijaké tajomstvo súvisiace s túžbami, ktoré nútia muža pokúšať sa o zblíženie so ženou.	Vďaka týmto skúsenostiam pre mňa teoreticky existovalo nijaké tajomstvo súvisiace s túžbami, ktoré nútia muža pokúšať sa o zblíženie so ženou.	nijaký	nijaké	unknown	1	21	neg	False	1	psiakoza:Psia-koza-071:Psia_koza_071-p1s4	None	None
+Už dávno dostal prezývku podľa starovekého filozofa a už dávno si nikto nepamätal, ako sa skutočne volá.	Už dávno dostal prezývku podľa starovekého filozofa a už dávno si nikto pamätal, ako sa skutočne volá.	nikto	nikto	unknown	1	17	neg	False	1	psiakoza:Psia-koza-071:Psia_koza_071-p2s3	None	None
+Nikdy predtým som nevidela živú korytnačku.	Nikdy predtým som videla živú korytnačku.	nikdy	Nikdy	unknown	3	6	neg	False	1	psiakoza:Psia-koza-071:Psia_koza_071-p4s3	None	None
+Mama mi o ňom nikdy predtým nerozprávala.	Mama mi o ňom nikdy predtým rozprávala.	nikdy	nikdy	unknown	2	7	neg	False	1	psiakoza:Psia-koza-072:Psia_koza_072-p4s6	None	None
+Nemohli sme k nej chodievať, ani ona nemohla chodievať k nám.	Nemohli sme k nej chodievať, ani ona mohla chodievať k nám.	ani	ani	unknown	2	11	neg	False	1	psiakoza:Psia-koza-072:Psia_koza_072-p4s8	None	None
+Ani som sa nepohla.	Ani som sa pohla.	ani	Ani	unknown	3	4	neg	False	1	psiakoza:Psia-koza-073:Psia_koza_073-p3s7	None	None
+Ale ani to som neurobila.	Ale ani to som urobila.	ani	ani	unknown	3	5	neg	False	1	psiakoza:Psia-koza-073:Psia_koza_073-p4s3	None	None
+Mama pila doma, nikdy sa nestalo, že by sa vrátila z kravínov a razila alkoholom.	Mama pila doma, nikdy sa stalo, že by sa vrátila z kravínov a razila alkoholom.	nikdy	nikdy	unknown	2	15	neg	False	1	psiakoza:Psia-koza-074:Psia_koza_074-p4s4	None	None
+Už som nič necítila.	Už som nič cítila.	nič	nič	unknown	1	4	neg	False	1	psiakoza:Psia-koza-075:Psia_koza_075-p4s21	None	None
+V tých miestach sa nikdy neobjavili divé kačice.	V tých miestach sa nikdy objavili divé kačice.	nikdy	nikdy	unknown	1	8	neg	False	1	psiakoza:Psia-koza-078:Psia_koza_078-p1s7	None	None
+Nikto nevie, kam ho pochovali.	Nikto vie, kam ho pochovali.	nikto	Nikto	unknown	1	5	neg	False	1	psiakoza:Psia-koza-078:Psia_koza_078-p4s11	None	None
+Nemala som nijaký dôvod namietať.	Mala som nijaký dôvod namietať.	nijaký	nijaký	unknown	2	5	neg	False	1	psiakoza:Psia-koza-079:Psia_koza_079-p1s5	None	None
+Celú noc som ani oko nezažmúril, spal som iba chvíľu nadránom.	Celú noc som ani oko zažmúril, spal som iba chvíľu nadránom.	ani	ani	unknown	2	11	neg	False	1	psiakoza:Psia-koza-079:Psia_koza_079-p3s2	None	None
+Spočiatku som ničomu nerozumel.	Spočiatku som ničomu rozumel.	nič	ničomu	unknown	1	4	neg	False	1	psiakoza:Psia-koza-083:Psia_koza_083-p4s3	None	None
+Všetko prebehlo v tichosti, vedenie fakulty nevydalo nijaké oficiálne vyhlásenie.	Všetko prebehlo v tichosti, vedenie fakulty vydalo nijaké oficiálne vyhlásenie.	nijaký	nijaké	unknown	1	10	neg	False	1	psiakoza:Psia-koza-085:Psia_koza_085-p1s5	None	None
+Nikto ma nikam nepredvolal.	Nikto ma nikam predvolal.	nikto	Nikto	unknown	3	4	neg	False	1	psiakoza:Psia-koza-085:Psia_koza_085-p4s2	None	None
+Túto zmenu nepredvídal ani anonym, ani ja sám.	Túto zmenu predvídal ani anonym, ani ja sám.	ani	ani	unknown	1	8	neg	True	2	psiakoza:Psia-koza-089:Psia_koza_089-p1s2	None	None
+Po záležitosti so Soni som nezažil nijaké ľúbostné dobrodružstvo.	Po záležitosti so Soni som zažil nijaké ľúbostné dobrodružstvo.	nijaký	nijaké	unknown	1	9	neg	False	1	psiakoza:Psia-koza-090:Psia_koza_090-p2s3	None	None
+Faika si nič nevšimla a nevmietla mi do tváre nijaký prívlastok.	Faika si nič všimla a nevmietla mi do tváre nijaký prívlastok.	nič	nič	unknown	1	11	neg	True	1	psiakoza:Psia-koza-090:Psia_koza_090-p4s1	None	None
+Vyšiel som na kopec, ale nestretol som nijakého psa.	Vyšiel som na kopec, ale stretol som nijakého psa.	nijaký	nijakého	unknown	2	9	neg	False	1	psiakoza:Psia-koza-091:Psia_koza_091-p2s1	None	None
+Nijaká dvojica nevstávala, že pôjde tancovať, plač toho dievčaťa pokazil atmosféru.	Nijaká dvojica vstávala, že pôjde tancovať, plač toho dievčaťa pokazil atmosféru.	nijaký	Nijaká	unknown	2	11	neg	False	1	psiakoza:Psia-koza-093:Psia_koza_093-p1s19	None	None
+Na chodbe som nepočul nijaké zvuky.	Na chodbe som počul nijaké zvuky.	nijaký	nijaké	unknown	1	6	neg	False	1	psiakoza:Psia-koza-094:Psia_koza_094-p2s1	None	None
+Ani ja som si to neželal.	Ani ja som si to želal.	ani	Ani	unknown	5	6	neg	False	1	psiakoza:Psia-koza-095:Psia_koza_095-p2s5	None	None
+Ja som nehľadal Istanbul ani bývalé hlavné mesto nejakej inej ríše.	Ja som hľadal Istanbul ani bývalé hlavné mesto nejakej inej ríše.	ani	ani	unknown	2	11	neg	False	1	psiakoza:Psia-koza-098:Psia_koza_098-p1s2	None	None
+Neobjavil sa nijaký strážnik.	Objavil sa nijaký strážnik.	nijaký	nijaký	unknown	2	4	neg	False	1	psiakoza:Psia-koza-098:Psia_koza_098-p2s2	None	None
+Navyše technológia našich tlačiarní sa ani dnes veľmi neodlišuje od technológie z čias Gutenberga.	Navyše technológia našich tlačiarní sa ani dnes veľmi odlišuje od technológie z čias Gutenberga.	ani	ani	unknown	3	14	neg	False	1	psiakoza:Psia-koza-102:Psia_koza_102-p2s15	None	None
+Pre chlad som za stolom nikdy nezaspal.	Pre chlad som za stolom nikdy zaspal.	nikdy	nikdy	unknown	1	7	neg	False	1	psiakoza:Psia-koza-104:Psia_koza_104-p2s11	None	None
+Poviedky typu Sexuálny nenásytník ani eseje ako Esej o vši nemali budúcnosť.	Poviedky typu Sexuálny nenásytník ani eseje ako Esej o vši mali budúcnosť.	ani	ani	unknown	6	12	neg	False	1	psiakoza:Psia-koza-104:Psia_koza_104-p3s10	None	None
+Delina predo mnou nikdy nevyriekla toto slovo.	Delina predo mnou nikdy vyriekla toto slovo.	nikdy	nikdy	unknown	1	7	neg	False	1	psiakoza:Psia-koza-108:Psia_koza_108-p1s9	None	None
+Ani v ten deň, ani neskôr si neželala, aby som použil prezervatív.	Ani v ten deň, ani neskôr si želala, aby som použil prezervatív.	ani	Ani	unknown	3	12	neg	True	2	psiakoza:Psia-koza-108:Psia_koza_108-p3s2	None	None
+Potom prišli texty, ktoré som Deline nikdy neukázal.	Potom prišli texty, ktoré som Deline nikdy ukázal.	nikdy	nikdy	unknown	1	8	neg	False	1	psiakoza:Psia-koza-110:Psia_koza_110-p1s4	None	None
+Ale šéf na nič neprišiel.	Ale šéf na nič prišiel.	nič	nič	unknown	1	5	neg	False	1	psiakoza:Psia-koza-110:Psia_koza_110-p2s7	None	None
+Ja som nepostrehol nijaký náznak, že by mala strach.	Ja som postrehol nijaký náznak, že by mala strach.	nijaký	nijaký	unknown	1	9	neg	False	1	psiakoza:Psia-koza-114:Psia_koza_114-p1s1	None	None
+A takisto dúfam, že neskôr nevidel ani film Hmla.	A takisto dúfam, že neskôr videl ani film Hmla.	ani	ani	unknown	1	9	neg	False	1	psiakoza:Psia-koza-115:Psia_koza_115-p3s10	None	None
+Ale ten namyslený chvastúň nemá nijaké sérum proti hadiemu jedu.	Ale ten namyslený chvastúň má nijaké sérum proti hadiemu jedu.	nijaký	nijaké	unknown	1	10	neg	False	1	psiakoza:Psia-koza-115:Psia_koza_115-p3s22	None	None
+Ďalej sa nestalo nič zvláštne.	Ďalej sa stalo nič zvláštne.	nič	nič	unknown	1	5	neg	False	1	psiakoza:Psia-koza-116:Psia_koza_116-p2s1	None	None
+Ale na tom veľkom námestí neboli nijaké oddiely.	Ale na tom veľkom námestí boli nijaké oddiely.	nijaký	nijaké	unknown	1	8	neg	False	1	psiakoza:Psia-koza-117:Psia_koza_117-p1s5	None	None
+Nečakal som nijaké telefonáty.	Čakal som nijaké telefonáty.	nijaký	nijaké	unknown	2	4	neg	False	1	psiakoza:Psia-koza-118:Psia_koza_118-p2s1	None	None
+Mladým som vyrozumel z tváre, že ani oni sa dobre nevyspali.	Mladým som vyrozumel z tváre, že ani oni sa dobre vyspali.	ani	ani	unknown	4	11	neg	False	1	psiakoza:Psia-koza-123:Psia_koza_123-p1s1	None	None
+Ale ona mi nepripomínala nijakú herečku.	Ale ona mi pripomínala nijakú herečku.	nijaký	nijakú	unknown	1	6	neg	False	1	psiakoza:Psia-koza-125:Psia_koza_125-p2s9	None	None
+Neurobil som ani jedno, ani druhé.	Urobil som ani jedno, ani druhé.	ani	ani	unknown	2	6	neg	True	2	psiakoza:Psia-koza-127:Psia_koza_127-p1s17	None	None
+V Petrohrade som prvýkrát, nemám tu nijaké kontakty.	V Petrohrade som prvýkrát, mám tu nijaké kontakty.	nijaký	nijaké	unknown	2	8	neg	False	1	psiakoza:Psia-koza-130:Psia_koza_130-p2s17	None	None
+Moja trpezlivosť sa vyčerpala, keď ručičky na hodinkách stihli ukázať pol dvanástej a mne sa nikto nevenoval.	Moja trpezlivosť sa vyčerpala, keď ručičky na hodinkách stihli ukázať pol dvanástej a mne sa nikto venoval.	nikto	nikto	unknown	1	17	neg	False	1	psiakoza:Psia-koza-130:Psia_koza_130-p4s1	None	None
+Z druhej strany neprišla nijaká odpoveď.	Z druhej strany prišla nijaká odpoveď.	nijaký	nijaká	unknown	1	6	neg	False	1	psiakoza:Psia-koza-130:Psia_koza_130-p4s6	None	None
+Nič mi nepovedal.	Nič mi povedal.	nič	Nič	unknown	2	3	neg	False	1	psiakoza:Psia-koza-132:Psia_koza_132-p2s6	None	None
+Vliekol som sa po Nevskom prospekte a stále som nedokázal sformulovať nijakú myšlienku.	Vliekol som sa po Nevskom prospekte a stále som dokázal sformulovať nijakú myšlienku.	nijaký	nijakú	unknown	2	13	neg	False	1	psiakoza:Psia-koza-132:Psia_koza_132-p3s10	None	None
+Nikto si nevšimol, že som bol preč.	Nikto si všimol, že som bol preč.	nikto	Nikto	unknown	2	7	neg	False	1	psiakoza:Psia-koza-136:Psia_koza_136-p4s1	None	None
+Nič sa ma nepýtal.	Nič sa ma pýtal.	nič	Nič	unknown	3	4	neg	False	1	psiakoza:Psia-koza-136:Psia_koza_136-p4s5	None	None
+Nikto z nich nevie nič o mojom ruskom dobrodružstve.	Nikto z nich vie nič o mojom ruskom dobrodružstve.	nikto	Nikto	unknown	1	9	neg	True	2	psiakoza:Psia-koza-139:Psia_koza_139-p2s3	None	None
+Nemajú čas ani myseľ na spory, ktoré by mohli vyplynúť z ich odlišných vyznaní.	Majú čas ani myseľ na spory, ktoré by mohli vyplynúť z ich odlišných vyznaní.	ani	ani	unknown	2	14	neg	False	1	raczovaoslov:dosl001:dosl_001-p3s10	None	None
+Ubezpečujem vás, že nič nehrozí," kričal žene sultánov hlavný vezír Džafar.	Ubezpečujem vás, že nič hrozí," kričal žene sultánov hlavný vezír Džafar.	nič	nič	unknown	1	11	neg	False	1	rozpravky:aladin04:aladin04-p6s1	None	None
+Vyzeráš, akoby si tu mysľou ani nebola.	Vyzeráš, akoby si tu mysľou ani bola.	ani	ani	unknown	1	7	neg	False	1	rozpravky:aladin06:aladin06-p8s2	None	None
+Ani sa nečudujem, že pre ňu nemôžete nič vymyslieť.	Ani sa čudujem, že pre ňu nemôžete nič vymyslieť.	ani	Ani	unknown	2	9	neg	True	1	rozpravky:aladin18:aladin18-p5s2	None	None
+Človek nikdy nevie, na čo natrafí.	Človek nikdy vie, na čo natrafí.	nikdy	nikdy	unknown	1	6	neg	False	1	rozpravky:aladin23:aladin23-p5s2	None	None
+Kým neodíde, nevylieziem na žiaden strom.	Kým neodíde, vylieziem na žiaden strom.	žiaden	žiaden	unknown	2	6	neg	False	1	rozpravky:aladin28:aladin28-p3s2	None	None
+Nesmieme strácať ani chvíľočku.	Smieme strácať ani chvíľočku.	ani	ani	unknown	2	4	neg	False	1	rozpravky:aladin28:aladin28-p4s6	None	None
+Radža naozaj nikomu neublíži," ubezpečovala ho Jazmína.	Radža naozaj nikomu ublíži," ubezpečovala ho Jazmína.	nikto	nikomu	unknown	1	7	neg	False	1	rozpravky:aladin31:aladin31-p8s1	None	None
+Obávam sa, že ten chlapec sa nikdy neožení.	Obávam sa, že ten chlapec sa nikdy ožení.	nikdy	nikdy	unknown	1	8	neg	False	1	rozpravky:aladin36:aladin36-p6s2	None	None
+Spočiatku nevidel nič.	Spočiatku videl nič.	nič	nič	unknown	1	3	neg	False	1	rozpravky:aladin40:aladin40-p4s3	None	None
+Nikdy som nemala šťastie na peniaze.	Nikdy som mala šťastie na peniaze.	nikdy	Nikdy	unknown	2	6	neg	False	1	rozpravky:aladin41:aladin41-p12s7	None	None
+A ja som si myslel, že si ma nikto nevšimol.	A ja som si myslel, že si ma nikto všimol.	nikto	nikto	unknown	1	10	neg	False	1	rozpravky:ferdo000:ferdo000-p18s2	None	None
+Na čistinke neostal ani jedinký.	Na čistinke ostal ani jedinký.	ani	ani	unknown	1	5	neg	False	1	rozpravky:ferdo002:ferdo002-p13s3	None	None
+Pohladkal som ho a veru ani sa nehol.	Pohladkal som ho a veru ani sa hol.	ani	ani	unknown	2	8	neg	False	1	rozpravky:ferdo003:ferdo003-p19s3	None	None
+O nej a o koníkovi nikto nič nevedel.	O nej a o koníkovi nikto nič vedel.	nikto	nikto	unknown	1	8	neg	True	2	rozpravky:ferdo005:ferdo005-p8s2	None	None
+Bol som šťastný ako blška, že sa jej nič nestalo.	Bol som šťastný ako blška, že sa jej nič stalo.	nič	nič	unknown	1	10	neg	False	1	rozpravky:ferdo005:ferdo005-p14s2	None	None
+A Trúbeľko sa zasa radoval, že sa Ferdovi nič zlé nestalo.	A Trúbeľko sa zasa radoval, že sa Ferdovi nič zlé stalo.	nič	nič	unknown	2	11	neg	False	1	rozpravky:ferdo014:ferdo014-p6s3	None	None
+Ak im dovolíme, aby na nás zaútočili zo všetkých strán, nikdy sa neubránime.	Ak im dovolíme, aby na nás zaútočili zo všetkých strán, nikdy sa ubránime.	nikdy	nikdy	unknown	2	13	neg	False	1	rozpravky:ferdo016:ferdo016-p2s2	None	None
+Ferdo z toho usúdil, že bývalí otrokári nevedia ani písať.	Ferdo z toho usúdil, že bývalí otrokári vedia ani písať.	ani	ani	unknown	1	10	neg	False	1	rozpravky:ferdo018:ferdo018-p10s2	None	None
+Nepoznám nič horšie ako utáraných kamarátov.	Poznám nič horšie ako utáraných kamarátov.	nič	nič	unknown	1	6	neg	False	1	rozpravky:ferdo020:ferdo020-p6s1	None	None
+Veď hrdinu by nemalo nič rozptyľovať.	Veď hrdinu by malo nič rozptyľovať.	nič	nič	unknown	1	6	neg	False	1	rozpravky:herkules002:herkules002-p20s2	None	None
+Nikdy nevystúpim na Olymp," vravel Filovi.	Nikdy vystúpim na Olymp," vravel Filovi.	nikdy	Nikdy	unknown	1	6	neg	False	1	rozpravky:herkules004:herkules004-p10s3	None	None
+Ale sú veci, ktoré nemôžeš zmeniť ani ty!	Ale sú veci, ktoré môžeš zmeniť ani ty!	ani	ani	unknown	2	8	neg	False	1	rozpravky:herkules006:herkules006-p13s2	None	None
+Dieťa spokojne ležalo a nič nenaznačovalo, že sa vlci chystajú vyjsť z jaskyne.	Dieťa spokojne ležalo a nič naznačovalo, že sa vlci chystajú vyjsť z jaskyne.	nič	nič	unknown	1	13	neg	False	1	rozpravky:kd01:kd01-p13s2	None	None
+Vysvetlíme mu, že ja také niečo nikdy neurobím!	Vysvetlíme mu, že ja také niečo nikdy urobím!	nikdy	nikdy	unknown	1	8	neg	False	1	rozpravky:kd04:kd04-p5s3	None	None
+Zatiaľ nič nevidel.	Zatiaľ nič videl.	nič	nič	unknown	1	3	neg	False	1	rozpravky:kd07:kd07-p4s2	None	None
+Vo svojej džungli nijaké ľudské mláďa nestrpím!	Vo svojej džungli nijaké ľudské mláďa strpím!	nijaký	nijaké	unknown	3	7	neg	False	1	rozpravky:kd09:kd09-p15s6	None	None
+Nepotrebujem nikoho!	Potrebujem nikoho!	nikto	nikoho	unknown	1	2	neg	False	1	rozpravky:kd11:kd11-p9s2	None	None
+Nemôžeš nikomu veriť.	Môžeš nikomu veriť.	nikto	nikomu	unknown	1	3	neg	False	1	rozpravky:kd25:kd25-p14s2	None	None
+A nikto ma nechce.	A nikto ma chce.	nikto	nikto	unknown	2	4	neg	False	1	rozpravky:kd26:kd26-p9s2	None	None
+Vari nám nikdy nedáte pokoj!	Vari nám nikdy dáte pokoj!	nikdy	nikdy	unknown	1	5	neg	False	1	rozpravky:maja05:maja05-p6s6	None	None
+Niekoľkokrát ho už videla z bezpečnej vzdialenosti, ale nikdy sa neodvážila k nemu priblížiť.	Niekoľkokrát ho už videla z bezpečnej vzdialenosti, ale nikdy sa odvážila k nemu priblížiť.	nikdy	nikdy	unknown	2	14	neg	False	1	rozpravky:maja22:maja22-p1s8	None	None
+Uprostred noci sa zobudila, čo sa jej nikdy nestalo.	Uprostred noci sa zobudila, čo sa jej nikdy stalo.	nikdy	nikdy	unknown	1	9	neg	False	1	rozpravky:maja22:maja22-p15s1	None	None
+Žije šťastne, nemá povinnosti a nič jej nechýba.	Žije šťastne, nemá povinnosti a nič jej chýba.	nič	nič	unknown	2	8	neg	False	1	rozpravky:maja24:maja24-p1s3	None	None
+Ani nemukla a bez pohnutia sa dívala na spiace dieťa.	Ani mukla a bez pohnutia sa dívala na spiace dieťa.	ani	Ani	unknown	1	10	neg	False	1	rozpravky:maja25:maja25-p13s8	None	None
+Nikto ju neprenasledoval.	Nikto ju prenasledoval.	nikto	Nikto	unknown	2	3	neg	False	1	rozpravky:maja30:maja30-p7s4	None	None
+Veď si sa v škole ani raz neprihlásil!	Veď si sa v škole ani raz prihlásil!	ani	ani	unknown	2	8	neg	False	1	rozpravky:maja33:maja33-p2s5	None	None
+Ja som sa nikdy nechcel ženiť," hundral nespokojne Vilko," a ty mi zrazu podstrčíš dieťa!	Ja som sa nikdy chcel ženiť," hundral nespokojne Vilko," a ty mi zrazu podstrčíš dieťa!	nikdy	nikdy	unknown	1	15	neg	False	1	rozpravky:maja35:maja35-p2s1	None	None
+Mamka o tom nechcela ani počuť.	Mamka o tom chcela ani počuť.	ani	ani	unknown	1	6	neg	False	1	rozpravky:maja35:maja35-p5s4	None	None
+Maja si už netrúfla nič navrhnúť.	Maja si už trúfla nič navrhnúť.	nič	nič	unknown	1	6	neg	False	1	rozpravky:maja36:maja36-p5s1	None	None
+To bude naše tajomstvo, nikomu ho neprezradíme.	To bude naše tajomstvo, nikomu ho prezradíme.	nikto	nikomu	unknown	2	7	neg	False	1	rozpravky:maja37:maja37-p9s5	None	None
+To sa zle skončí," kuvikal dážďovka Vendelín, ale nikto ho nepočúval.	To sa zle skončí," kuvikal dážďovka Vendelín, ale nikto ho počúval.	nikto	nikto	unknown	2	11	neg	False	1	rozpravky:maja38:maja38-p9s10	None	None
+Ani ja nič nedostanem zadarmo, a teraz si tú háveď pekne odveď!	Ani ja nič dostanem zadarmo, a teraz si tú háveď pekne odveď!	ani	Ani	unknown	1	12	neg	True	2	rozpravky:maja39:maja39-p9s1	None	None
+Na Makovej lúke sa nič nedialo, a tak zamierila do lesa.	Na Makovej lúke sa nič dialo, a tak zamierila do lesa.	nič	nič	unknown	1	11	neg	False	1	rozpravky:maja40:maja40-p12s3	None	None
+Beztak tie pracovité mravce nemohol ani cítiť.	Beztak tie pracovité mravce mohol ani cítiť.	ani	ani	unknown	1	7	neg	False	1	rozpravky:maja41:maja41-p13s6	None	None
+Keď je tak, nebudem nič oznamovať.	Keď je tak, budem nič oznamovať.	nič	nič	unknown	1	6	neg	False	1	rozpravky:maja41:maja41-p13s11	None	None
+Ale tomu neuniklo nič.	Ale tomu uniklo nič.	nič	nič	unknown	1	4	neg	False	1	rozpravky:maja45:maja45-p9s8	None	None
+Za jasotu spoluobčanov prevzali cenu a Dr. Slimák slzil od dojatia, pretože v tejto súťaži doteraz nijaký slimák nevyhral.	Za jasotu spoluobčanov prevzali cenu a Dr. Slimák slzil od dojatia, pretože v tejto súťaži doteraz nijaký slimák vyhral.	nijaký	nijaký	unknown	2	19	neg	False	1	rozpravky:maja46:maja46-p10s10	None	None
+Nikto vlastne nevedel, kam ide.	Nikto vlastne vedel, kam ide.	nikto	Nikto	unknown	2	5	neg	False	1	rozpravky:maja47:maja47-p1s2	None	None
+Ale ani pre myšiaka sa všetko neskončilo.	Ale ani pre myšiaka sa všetko skončilo.	ani	ani	unknown	5	7	neg	False	1	rozpravky:maja47:maja47-p12s2	None	None
+Doteraz sa ešte nikto o ňu tak veľmi nebál.	Doteraz sa ešte nikto o ňu tak veľmi bál.	nikto	nikto	unknown	5	9	neg	False	1	rozpravky:maja49:maja49-p10s2	None	None
+Jedného letného popoludnia sa na Makovej lúke zjavila obluda, akú ešte nikto nevidel.	Jedného letného popoludnia sa na Makovej lúke zjavila obluda, akú ešte nikto videl.	nikto	nikto	unknown	1	13	neg	False	1	rozpravky:maja51:maja51-p5s1	None	None
+Pretože Jumbo bol mierumilovný, nikto nenamietal.	Pretože Jumbo bol mierumilovný, nikto namietal.	nikto	nikto	unknown	1	6	neg	False	1	rozpravky:maja51:maja51-p5s5	None	None
+Maja, Vilko a Flip sa mu ani nečudovali.	Maja, Vilko a Flip sa mu ani čudovali.	ani	ani	unknown	1	8	neg	False	1	rozpravky:maja51:maja51-p9s3	None	None
+Za nič na svete však nechcela opustiť svoju rodinku, a tak sa Rudko a Flip rozhodli, že jej občas pomôžu.	Za nič na svete však chcela opustiť svoju rodinku, a tak sa Rudko a Flip rozhodli, že jej občas pomôžu.	nič	nič	unknown	4	20	neg	False	1	rozpravky:maja52:maja52-p2s2	None	None
+Obaja súhlasili, no nič im nenapadalo.	Obaja súhlasili, no nič im napadalo.	nič	nič	unknown	2	6	neg	False	1	rozpravky:maja52:maja52-p5s6	None	None
+Vyvesili na tabuľu text, ale ani to nepomohlo, lebo Vilko sa z lenivosti nenaučil dobre čítať.	Vyvesili na tabuľu text, ale ani to pomohlo, lebo Vilko sa z lenivosti nenaučil dobre čítať.	ani	ani	unknown	2	16	neg	False	1	rozpravky:maja52:maja52-p6s2	None	None
+Tarzan nikdy nebude jedným z nás!" zavrčal.	Tarzan nikdy bude jedným z nás!" zavrčal.	nikdy	nikdy	unknown	1	7	neg	False	1	rozpravky:tarzan01-001:tarzan01-001-p9s1	None	None
+To dievčisko nič nevie!	To dievčisko nič vie!	nič	nič	unknown	1	4	neg	False	1	rozpravky:023-pan:023.pan-p8s2	None	None
+Vidím, že nič neviete o našom žartíku.	Vidím, že nič viete o našom žartíku.	nič	nič	unknown	1	7	neg	False	1	rozpravky:023-pan:023.pan-p9s2	None	None
+Z nás sa nikdy nestanú piráti," hrdo vyhlásila Wendy.	Z nás sa nikdy stanú piráti," hrdo vyhlásila Wendy.	nikdy	nikdy	unknown	1	9	neg	False	1	rozpravky:024-pan:024.pan-p8s1	None	None
+Ak nemôže dostať Belu on, nedostane ju nikto, ani človek ani zviera.	Ak nemôže dostať Belu on, dostane ju nikto, ani človek ani zviera.	nikto	nikto	unknown	2	12	neg	True	3	rozpravky:043-krasna:043.krasna-p4s2	None	None
+Nikdy nebudú svoji.	Nikdy budú svoji.	nikdy	Nikdy	unknown	1	3	neg	False	1	rozpravky:045-kraa:045.kraska-p10s1	None	None
+Nezískala ho ani Matica, ani občianske združenie Komorra a nedarí sa to ani gymnáziu.	Získala ho ani Matica, ani občianske združenie Komorra a nedarí sa to ani gymnáziu.	ani	ani	unknown	2	14	neg	True	2	sme:10506:.l.	None	None
+Nezískala ho ani Matica, ani občianske združenie Komorra a nedarí sa to ani gymnáziu.	Nezískala ho ani Matica, ani občianske združenie Komorra a darí sa to ani gymnáziu.	ani	ani	unknown	3	14	neg	True	1	sme:10506:.l.	None	None
+Lietadlo však nikdy nepristálo, pretože keď sa už blížilo k miestu pristátia, náhle sa zrútilo neďaleko Ivánky pri Dunaji.	Lietadlo však nikdy pristálo, pretože keď sa už blížilo k miestu pristátia, náhle sa zrútilo neďaleko Ivánky pri Dunaji.	nikdy	nikdy	unknown	1	19	neg	False	1	wikipedia:wiki2371:wiki2371-p1s154	None	None
+Oficiálne" názov DVD neskracuje nič.	Oficiálne" názov DVD skracuje nič.	nič	nič	unknown	1	5	neg	False	1	wikipedia:wiki2701:wiki2701-p1s6	None	None
+Ja som tam nikdy nečakal a informácie mi poskytli dokonca mimo úradných hodín.	Ja som tam nikdy čakal a informácie mi poskytli dokonca mimo úradných hodín.	nikdy	nikdy	unknown	1	13	neg	False	1	wikipedia:wiki977:wiki977-p1s24	None	None
+Nezískal však žiadne zvláštne vedomosti o Európe.	Získal však žiadne zvláštne vedomosti o Európe.	žiaden	žiadne	unknown	2	7	neg	False	1	wikipedia2:wiki-nove-004:wiki_nove_004-p3s7	None	None
+Boje sa pretiahli na niekoľko rokov, ani jedna strana v nich však nezískala prevahu.	Boje sa pretiahli na niekoľko rokov, ani jedna strana v nich však získala prevahu.	ani	ani	unknown	6	14	neg	False	1	wikipedia2:wiki-nove-009:wiki_nove_009-p7s2	None	None
+Nijako nezasiahol počas Attilových kampaní na západe.	Nijako zasiahol počas Attilových kampaní na západe.	nijako	Nijako	unknown	1	7	neg	False	1	wikipedia2:wiki-nove-064:wiki_nove_064-p7s2	None	None
+Rovnako nijako nebránil Geiserichovi vo vydrancovaní Ríma v roku 455.	Rovnako nijako bránil Geiserichovi vo vydrancovaní Ríma v roku 455.	nijako	nijako	unknown	1	10	neg	False	1	wikipedia2:wiki-nove-064:wiki_nove_064-p7s3	None	None
+Históriu nikdy neštudoval, v tomto odbore je autodidaktom.	Históriu nikdy študoval, v tomto odbore je autodidaktom.	nikdy	nikdy	unknown	1	8	neg	False	1	wikipedia2:wiki-nove-088:wiki_nove_088-p5s3	None	None

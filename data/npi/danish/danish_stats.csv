@@ -1,0 +1,17 @@
+lang,lemma,total,licensed,licensing_ratio,env,env_count,env_share,min_freq,threshold
+Danish,overhovedet,11,2,0.182,neg,2,0.182,1,0.0
+Danish,overhovedet,11,2,0.182,multiple_licensors,1,0.091,1,0.0
+Danish,endnu,50,19,0.38,neg,15,0.3,1,0.0
+Danish,endnu,50,19,0.38,DE_licensor,1,0.02,1,0.0
+Danish,endnu,50,19,0.38,multiple_licensors,1,0.02,1,0.0
+Danish,endnu,50,19,0.38,comparative,1,0.02,1,0.0
+Danish,endnu,50,19,0.38,question,1,0.02,1,0.0
+Danish,endnu,50,19,0.38,conditional,1,0.02,1,0.0
+Danish,heller,40,30,0.75,neg,28,0.7,1,0.0
+Danish,heller,40,30,0.75,n_series_neg,2,0.05,1,0.0
+Danish,heller,40,30,0.75,multiple_licensors,3,0.075,1,0.0
+Danish,spor,8,4,0.5,neg,2,0.25,1,0.0
+Danish,spor,8,4,0.5,n_series_neg,2,0.25,1,0.0
+Danish,som_helst,6,3,0.5,neg,3,0.5,1,0.0
+Danish,nogensinde,7,0,0.0,superlative,3,0.429,1,0.0
+Danish,noget_somhelst,1,1,1.0,without_pp_licensor,1,1.0,1,0.0

@@ -1,0 +1,17 @@
+lang,lemma,total,licensed,licensing_ratio,env,env_count,env_share,min_freq,threshold
+Finnish,kukaan,177,116,0.655,neg,116,0.655,5,0.5
+Finnish,kukaan,177,116,0.655,question,15,0.085,5,0.5
+Finnish,kukaan,177,116,0.655,multiple_licensors,15,0.085,5,0.5
+Finnish,kukaan,177,116,0.655,local_plus_matrix,1,0.006,5,0.5
+Finnish,mikään,404,292,0.723,neg,292,0.723,5,0.5
+Finnish,mikään,404,292,0.723,multiple_matrix_licensors,1,0.002,5,0.5
+Finnish,mikään,404,292,0.723,question,8,0.02,5,0.5
+Finnish,mikään,404,292,0.723,multiple_licensors,10,0.025,5,0.5
+Finnish,mikään,404,292,0.723,local_plus_matrix,3,0.007,5,0.5
+Finnish,kumpikaan,16,12,0.75,neg,12,0.75,5,0.5
+Finnish,kumpikaan,16,12,0.75,question,1,0.062,5,0.5
+Finnish,kumpikaan,16,12,0.75,multiple_licensors,2,0.125,5,0.5
+Finnish,mitenkään,17,13,0.765,neg,13,0.765,5,0.5
+Finnish,mitenkään,17,13,0.765,question,1,0.059,5,0.5
+Finnish,milloinkaan,6,3,0.5,neg,3,0.5,5,0.5
+Finnish,milloinkaan,6,3,0.5,superlative,1,0.167,5,0.5

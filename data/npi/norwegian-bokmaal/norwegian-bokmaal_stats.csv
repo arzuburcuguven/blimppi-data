@@ -1,0 +1,16 @@
+lang,lemma,total,licensed,licensing_ratio,env,env_count,env_share,min_freq,threshold
+Norwegian-Bokmaal,ennå,18,12,0.667,neg,12,0.667,0,0.0
+Norwegian-Bokmaal,ennå,18,12,0.667,multiple_licensors,3,0.167,0,0.0
+Norwegian-Bokmaal,noensinne,10,5,0.5,comparative,5,0.5,0,0.0
+Norwegian-Bokmaal,noensinne,10,5,0.5,superlative,1,0.1,0,0.0
+Norwegian-Bokmaal,synderlig,1,1,1.0,neg,1,1.0,0,0.0
+Norwegian-Bokmaal,heller,48,32,0.667,neg,27,0.562,0,0.0
+Norwegian-Bokmaal,heller,48,32,0.667,multiple_licensors,5,0.104,0,0.0
+Norwegian-Bokmaal,heller,48,32,0.667,local_plus_matrix,1,0.021,0,0.0
+Norwegian-Bokmaal,heller,48,32,0.667,n_series_neg,4,0.083,0,0.0
+Norwegian-Bokmaal,heller,48,32,0.667,is_få,1,0.021,0,0.0
+Norwegian-Bokmaal,overhodet,4,0,0.0,multiple_licensors,1,0.25,0,0.0
+Norwegian-Bokmaal,spor,8,1,0.125,without_pp_licensor,1,0.125,0,0.0
+Norwegian-Bokmaal,spor,8,1,0.125,multiple_licensors,1,0.125,0,0.0
+Norwegian-Bokmaal,nevneverdig,4,1,0.25,multiple_licensors,1,0.25,0,0.0
+Norwegian-Bokmaal,nevneverdig,4,1,0.25,neg,1,0.25,0,0.0

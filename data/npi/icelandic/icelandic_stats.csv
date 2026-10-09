@@ -1,0 +1,9 @@
+lang,lemma,total,licensed,licensing_ratio,env,env_count,env_share,min_freq,threshold
+Icelandic,neinn,82,50,0.61,neg,47,0.573,0,0.0
+Icelandic,neinn,82,50,0.61,multiple_licensors,12,0.146,0,0.0
+Icelandic,neinn,82,50,0.61,n_series_neg,8,0.098,0,0.0
+Icelandic,neinn,82,50,0.61,multiple_matrix_licensors,1,0.012,0,0.0
+Icelandic,neinn,82,50,0.61,question,1,0.012,0,0.0
+Icelandic,neinn,82,50,0.61,conditional,1,0.012,0,0.0
+Icelandic,neinn,82,50,0.61,without_pp_licensor,1,0.012,0,0.0
+Icelandic,neitt,3,2,0.667,neg,2,0.667,0,0.0

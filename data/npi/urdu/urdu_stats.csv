@@ -1,0 +1,9 @@
+lang,lemma,total,licensed,licensing_ratio,env,env_count,env_share,min_freq,threshold
+Urdu,تاحال,11,7,0.636,neg,7,0.636,10,0.5
+Urdu,کوئی_بھی,52,35,0.673,neg,29,0.558,10,0.5
+Urdu,کوئی_بھی,52,35,0.673,modal_licensor,5,0.096,10,0.5
+Urdu,کوئی_بھی,52,35,0.673,neg_predicate,1,0.019,10,0.5
+Urdu,کبھی,24,18,0.75,neg,18,0.75,10,0.5
+Urdu,کبھی,24,18,0.75,multiple_licensors,1,0.042,10,0.5
+Urdu,کبھی,24,18,0.75,question,2,0.083,10,0.5
+Urdu,ہرگز,12,11,0.917,neg,11,0.917,10,0.5

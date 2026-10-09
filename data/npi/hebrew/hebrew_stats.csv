@@ -1,0 +1,13 @@
+lang,lemma,total,licensed,licensing_ratio,env,env_count,env_share,min_freq,threshold
+Hebrew,אף_פעם,7,6,0.857,neg,6,0.857,0,0.0
+Hebrew,שום,62,52,0.839,neg,51,0.823,0,0.0
+Hebrew,שום,62,52,0.839,multiple_licensors,3,0.048,0,0.0
+Hebrew,שום,62,52,0.839,without_pp_licensor,1,0.016,0,0.0
+Hebrew,שום_דבר,21,21,1.0,neg,21,1.0,0,0.0
+Hebrew,כלום,3,3,1.0,neg,3,1.0,0,0.0
+Hebrew,לעולם,21,11,0.524,without_pp_licensor,1,0.048,0,0.0
+Hebrew,לעולם,21,11,0.524,neg,10,0.476,0,0.0
+Hebrew,לעולם,21,11,0.524,multiple_licensors,2,0.095,0,0.0
+Hebrew,מעולם,22,21,0.955,neg,21,0.955,0,0.0
+Hebrew,אף_אחד,9,8,0.889,neg,8,0.889,0,0.0
+Hebrew,אף_אחד,9,8,0.889,multiple_licensors,1,0.111,0,0.0

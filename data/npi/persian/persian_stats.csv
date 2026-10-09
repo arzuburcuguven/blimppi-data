@@ -1,0 +1,7 @@
+lang,lemma,total,licensed,licensing_ratio,env,env_count,env_share,min_freq,threshold
+Persian,هیچ,514,406,0.79,neg,406,0.79,10,0.6
+Persian,هیچ,514,406,0.79,local_plus_matrix,6,0.012,10,0.6
+Persian,هیچ,514,406,0.79,multiple_licensors,15,0.029,10,0.6
+Persian,هرگز,124,103,0.831,neg,107,0.863,10,0.6
+Persian,هرگز,124,103,0.831,local_plus_matrix,4,0.032,10,0.6
+Persian,هرگز,124,103,0.831,multiple_licensors,7,0.056,10,0.6
